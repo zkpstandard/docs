@@ -3,10 +3,10 @@ title: ZKProof Resources
 theme: just-the-docs
 description: Explore the documentation of the ZKProof Standardization effort
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://zkpstandard.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://zkpstandard.github.io/docs" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
-exclude: ["test21.md", "README.md"]
+exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
 
 # Set a path/url to a logo that will be displayed instead of the title
 logo: "/assets/images/zkproof-horizontal.png"
