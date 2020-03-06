@@ -61,23 +61,31 @@ h6 {
 
 p {
   margin-bottom: 1em;
+ font-size: 16px;
+ font-weight: 300;
+line-height: 1.75;
+  margin: 18px 0 0;
+font-family: 'Roboto', sans-serif;
+color: #666666;
+}
 }
 
 a {
-  color: $link-color;
+  color: #e53d4f;
   text-decoration: none;
+}
+
+a:active, a:hover {
+  text-decoration: none;
+ color: #006cff;
 }
 
 a:not([class]) {
   text-decoration: none;
-  background-image: linear-gradient($border-color 0%, $border-color 100%);
-  background-repeat: repeat-x;
-  background-position: 0 100%;
-  background-size: 1px 1px;
+  background-image: none;
 
   &:hover {
-    background-image: linear-gradient(rgba($link-color, 0.45) 0%, rgba($link-color, 0.45) 100%);
-    background-size: 1px 1px;
+    background-image: none;
 
   }
 }

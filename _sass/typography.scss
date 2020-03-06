@@ -22,9 +22,12 @@ h3,
 h4,
 .text-delta {
   @include fs-2;
-  font-weight: 300;
   text-transform: uppercase;
   letter-spacing: 0.1em;
+font-size: 16px;
+font-weight: 600 !important;
+ font-family: Poppins !important;
+line-height: 1.75;
 }
 
 h5,
