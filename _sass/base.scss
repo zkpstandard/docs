@@ -76,7 +76,7 @@ a {
 
 a:active, a:hover {
   text-decoration: none;
- color: #006cff;
+ color: #303133;
 }
 
 a:not([class]) {
@@ -85,6 +85,7 @@ a:not([class]) {
 
   &:hover {
     background-image: none;
+    color: #303133;
 
   }
 }
