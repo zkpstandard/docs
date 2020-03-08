@@ -19,7 +19,8 @@
   z-index: 100;
   display: flex;
   flex-wrap: wrap;
-  background-color: $sidebar-color;
+  /* background-color: $sidebar-color; */
+  background-color: #ffffff;
 
   @include mq(md) {
     flex-wrap: nowrap;
@@ -89,7 +90,7 @@
     justify-content: flex-end;
     height: $header-height;
     background-color: $body-background-color;
-    border-bottom: 0;
+    border-bottom: $border $border-color;
   }
 
   &.nav-open {
@@ -132,7 +133,7 @@
     z-index: 101;
     height: $header-height;
     max-height: $header-height;
-    border-bottom: 0;
+    border-bottom: $border $border-color;
   }
 }
 
