@@ -23,7 +23,7 @@ h4,
 .text-delta {
   text-transform: uppercase;
   letter-spacing: 0.1em;
-font-size: 16px;
+font-size: 16px !important;
 font-weight: 600 !important;
  font-family: Poppins !important;
 line-height: 1.75;
@@ -60,13 +60,19 @@ li {
 }
 
 
-.text-navbar a {
+.text-navbar {
   font-weight: 600;
     letter-spacing: 0.05em;
     font-size: 12px;
     font-family: 'Poppins', sans-serif;
     line-height: 1em;
     text-transform: uppercase;
+    color:#5c5962;
+
+}
+
+.text-navbar a {
+
     color:#5c5962;
 
 }
