@@ -140,6 +140,7 @@
     height: $header-height;
     max-height: $header-height;
     border-bottom: $border $border-color;
+    background-color: #f2f2f2;
   }
 }
 
@@ -168,7 +169,6 @@
     background-repeat: no-repeat;
     background-position: left center;
     background-size: contain;
-    background-color: #f2f2f2;
   }
 }
 
