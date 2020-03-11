@@ -102,6 +102,12 @@
   }
 }
 
+@media (min-width: 50rem) {
+	.main-nav {
+	 background-color: #f2f2f2;
+	 }	
+}
+
 .navigation,
 .site-header,
 .site-footer {
@@ -162,6 +168,7 @@
     background-repeat: no-repeat;
     background-position: left center;
     background-size: contain;
+    background-color: #f2f2f2;
   }
 }
 
@@ -202,6 +209,7 @@ body {
   left: 0;
   padding-top: $sp-4;
   padding-bottom: $sp-4;
+  background-color: #f2f2f2;
 
   @include mq(md) {
     position: static;
