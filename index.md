@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Wiki Home
+title: Home
 nav_order: 1
 description: Welcome to the resources of the ZKProof Standardization effort
 has_children: true
