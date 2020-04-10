@@ -31,7 +31,7 @@ The goal of the ZKProof Standardization effort is to advance the use of Zero Kno
     - Participants in the event might be photographed or filmed.
     - We encourage you to tweet, blog and share with the hashtag #ZKProof. Our official twitterhandle is @ZKProof.
     
-For further information, please refer to contact@zkproof.org
+For further information, please refer to [contact@zkproof.org](mailto:contact@zkproof.org)
 
 ## Intellectual Property Policy
 
@@ -41,7 +41,7 @@ The members of the ZKProof community are hereby strongly encouraged to provide i
 
 ZKProof aims to produce documents that are open for all and free to use. As such, all content issued from the ZKProof Standards effort is under Creative Commons Attribution 4.0 International license. The ZKProof documentation will be updated based on received disclosures about pertinent patent claims. Please email information to editors@zkproof.org.
 
-For any questions email contact@zkproof.org
+For any questions email [contact@zkproof.org](mailto:contact@zkproof.org)
 
 ## Code of Conduct
 
@@ -65,7 +65,6 @@ All participants, speakers and sponsors of the ZKProof Standard Workshop shall a
 - Homophobia, racism or behavior that discriminates against a group or class of people.
 - Sexual harassment of any kind, including unwelcome sexual attention and inappropriate physical contact.
 
-For further information, please refer to ​contact@zkproof.org
+For further information, please refer to ​[contact@zkproof.org](mailto:contact@zkproof.org)
 
 `The above code of conduct was adapted from TEDx.`
-patrick.marsceill@gmail.com

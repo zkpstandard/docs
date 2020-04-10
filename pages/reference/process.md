@@ -21,7 +21,7 @@ permalink: /reference/process
 
 We have published [version 0.2 of the document](https://docs.zkproof.org/reference.pdf), dated December 31, 2019. We thank all the received contributions. You can see the specific changes in the "[diff](https://github.com/zkpstandard/zkreference/raw/master/diff-v0.2-from-v0.1.pdf)" file in this repo. To finalize this cycle of development of the ZKProof Community Reference, and prepare for the next one, we are opening a call for feedback on the current version.
 
-The period **Jan 01 to Mar 31 (2019)** is open for public feedback on all aspects of the ZKProof Community Reference version 0.2. The feedback will be helpful to prepare topics of discussion at the [3rd ZKProof workshop (April 20 – May 21)](https://zkproof.org/events/workshop3), which will kick-off a new cycle open to contributions. Please send your feedback by email to editors@zkproof.org.
+The period **Jan 01 to Mar 31 (2019)** is open for public feedback on all aspects of the ZKProof Community Reference version 0.2. The feedback will be helpful to prepare topics of discussion at the [3rd ZKProof workshop (April 20 – May 21)](https://zkproof.org/events/workshop3), which will kick-off a new cycle open to contributions. Please send your feedback by email to [editors@zkproof.org](mailto:editors@zkproof.org).
 
 **Editors**
 
@@ -34,7 +34,7 @@ The period **Jan 01 to Mar 31 (2019)** is open for public feedback on all aspect
 We have defined an editorial process to improve the [ZKProof Community Reference](https://docs.zkproof.org/reference.pdf) in a collaborative manner. Every year, after the annual ZKProof Workshop, a new cycle of editing will begin, starting from the discussions that take place at the workshop. The ZKProof Community Reference is based on the [ZKProof Proceedings](https://docs.zkproof.org/reference) from the 1st workshop) and the papers that are submitted yearly [ZKProof Community Proposals](https://docs.zkproof.org/standards/proposals).
 
 ### Cycle 2019
-You can find the notes from the discussions that took place in the “breakout” and “proposal” sessions at the [2nd ZKProof Workshop](https://zkproof.org/events/workshop2) in [the community forum](https://community.zkproof.org/t/2nd-zkproof-standards-workshop-in-berkeley-april-10-12/60/2?u=danib31).
+You can find the notes from the discussions that took place in the “breakout” and “proposal” sessions at the [2nd ZKProof Workshop](https://zkproof.org/events/workshop2) in [the community forum](https://community.zkproof.org/t/2nd-zkproof-standards-workshop-in-berkeley-april-10-12/60/2).
 
 The complete and up-to-date list of contributions can be [found here](https://docs.google.com/spreadsheets/d/1QSSrz9IgcTDtzvwuufLuz19hE0y1FWwtrzNPZ9jVDU0/edit?usp=sharing). Each contribution is tagged as _suggested_, _confirmed_, _submitted_ and _integrated_ as per its current status, which allows the community to track the state of the contributions. Contributions may be of several types, such as: writing a new section or paragraph; creating or editing a table; upgrading the bibliography; editing typos, etc.
 

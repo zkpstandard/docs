@@ -15,7 +15,7 @@ The full list of contributors will be published here soon.
 
 ## Workshop 3, Cycle 2020
 
-Upcoming.
+Upcoming, for now the complete and up-to-date list of contributions can be [found here](https://docs.google.com/spreadsheets/d/1QSSrz9IgcTDtzvwuufLuz19hE0y1FWwtrzNPZ9jVDU0/edit?usp=sharing).
 
 
 ## Workshop 2, Cycle 2019
