@@ -15,18 +15,18 @@ The full list of contributors will be published here soon.
 
 ## Workshop 3, Cycle 2020
 
-Upcoming
+Upcoming.
 
 
 ## Workshop 2, Cycle 2019
 
 Name | Last Name | Description | Issue | Submission Date
 -----|-----------|-------------|-------|-----------------
-Angela | Robinson | Applications Section | [#25]() | 12-09-2019
+
 
 
 ## Workshop 1, Cycle 2018
 
 Name | Last Name | Description | Submission Date
 -----|-----------|-------------|-----------------
-Daniel | Benarroch | Applications document |  
+
