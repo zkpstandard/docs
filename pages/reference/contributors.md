@@ -2,23 +2,31 @@
 layout: default
 title: Contributors
 parent: Reference Documentation
-nav_order: 3
+nav_order: 2
 permalink: /reference/contributors
 ---
 
 # Contributors
 {: .no_toc }
 
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
 ---
 
-## Here is the full list of contributors
+The full list of contributors will be published here soon.
+
+## Workshop 3, Cycle 2020
+
+Upcoming
+
+
+## Workshop 2, Cycle 2019
 
 Name | Last Name | Description | Issue | Submission Date
 -----|-----------|-------------|-------|-----------------
 Angela | Robinson | Applications Section | [#25]() | 12-09-2019
+
+
+## Workshop 1, Cycle 2018
+
+Name | Last Name | Description | Submission Date
+-----|-----------|-------------|-----------------
+Daniel | Benarroch | Applications document |  
