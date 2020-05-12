@@ -9,7 +9,7 @@ permalink: /reference
 # Community Reference
 {: .no_toc }
 
-The ZKProof Community Reference document
+The lates version of the [ZKProof Community Reference](/pages/reference/reference.pdf) document
 
 
 ## Table of contents
@@ -38,7 +38,7 @@ We have published [version 0.2 of the document](/pages/reference/reference.pdf),
 
 ### Call for Feedback 
   
-The period **Jan 01 to Mar 31 (2019)** is open for public feedback on all aspects of the ZKProof Community Reference version 0.2. The feedback will be helpful to prepare topics of discussion at the [3rd ZKProof workshop (April 04–06)](https://zkproof.org/events/workshop3), which will kick-off a new cycle open to contributions. Please send your feedback by email to [editors@zkproof.org](mailto:editors@zkproof.org). When commenting on specific portions of text, please refer to the line numbers in the ["annotated changes" version](/pages/reference/diffs/changes-v0.2-from-v0.1.pdf). Note that the [ZKProof community forum](https://community.zkproof.org) also remains as a resource for community discussion.
+We are open for public feedback on all aspects of the ZKProof Community Reference version 0.2. The feedback will be helpful to prepare topics of discussion at the [3rd ZKProof workshop (April 04–06)](https://zkproof.org/events/workshop3), which will kick-off a new cycle open to contributions. Please send your feedback by email to [editors@zkproof.org](mailto:editors@zkproof.org). When commenting on specific portions of text, please refer to the line numbers in the ["annotated changes" version](/pages/reference/diffs/changes-v0.2-from-v0.1.pdf). Note that the [ZKProof community forum](https://community.zkproof.org) also remains as a resource for community discussion.
 
 **Here is a list of examples of feedback we are looking for**
 
