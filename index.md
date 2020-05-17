@@ -19,13 +19,13 @@ ZKProof is an open-industry academic initiative that seeks to mainstream zero-kn
 
 ## What Documentation
 
-This page is a collection of all the different documentation related to the ZKProof Standardization effort. From the [code of conduct](/general), to [paper submissions](/standards/proposals) and workshop notes, all documents are free to use and are distributed under the [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/deed.ast). Specifically, the [ZKProof Community Reference](/docs/reference) document should be used as a reference for best practice of the field of zero-knowledge proofs, and is a result of a collaboration between dozens of researchers, developers and practitioners.  
+This page is a collection of all the different documentation related to the ZKProof Standardization effort. From the [code of conduct](/pages/general), to [paper submissions](/pages/standards/proposals) and workshop notes, all documents are free to use and are distributed under the [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/deed.ast). Specifically, the [ZKProof Community Reference](/pages/reference) document should be used as a reference for best practice of the field of zero-knowledge proofs, and is a result of a collaboration between dozens of researchers, developers and practitioners.  
 
 
 ## Quick Links
 
 - Latest verion of the [ZKProof Community Reference](/pages/reference/reference.pdf) document
-- [Accepted papers](/standards/proposals) to the [3rd ZKProof Workshop - Home Edition](https://zkproof.org/events/workshop3)
+- [Accepted papers](/pages/standards/proposals) to the [3rd ZKProof Workshop - Home Edition](https://zkproof.org/events/workshop3)
 
 
 ## Contributing
