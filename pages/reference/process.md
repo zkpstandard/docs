@@ -21,7 +21,7 @@ permalink: /reference/process
 
 We have published [version 0.2 of the document](/pages/reference/reference.pdf), dated December 31, 2019. We thank all the received contributions. You can see the specific changes in the "[diff](/pages/reference/diffs/diff-v0.2-from-v0.1.pdf)" file in this repo. To finalize this cycle of development of the ZKProof Community Reference, and prepare for the next one, we are opening a call for feedback on the current version.
 
-The period **Jan 01 to Mar 31 (2019)** is open for public feedback on all aspects of the ZKProof Community Reference version 0.2. The feedback will be helpful to prepare topics of discussion at the [3rd ZKProof workshop (April 20 – May 21)](https://zkproof.org/events/workshop3), which will kick-off a new cycle open to contributions. Please send your feedback by email to [editors@zkproof.org](mailto:editors@zkproof.org).
+The period **Jan 01 to Mar 31 (2020)** is open for public feedback on all aspects of the ZKProof Community Reference version 0.2. The feedback will be helpful to prepare topics of discussion at the [3rd ZKProof workshop (April 20 – May 21)](https://zkproof.org/events/workshop3), which will kick-off a new cycle open to contributions. Please send your feedback by email to [editors@zkproof.org](mailto:editors@zkproof.org).
 
 **Editors**
 
