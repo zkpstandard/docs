@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Welcome
+title: ZKProof Resources
 nav_order: 1
 description: Welcome to the resources of the ZKProof Standardization effort
 has_children: true
@@ -15,7 +15,7 @@ Welcome to the official resources page of the ZKProof Standardization effort.
 
 ## About ZKProof
 
-ZKProof is an open-industry academic initiative that seeks to mainstream zero-knowledge proof (ZKP) cryptography through an inclusive, community-driven standardization process that focuses on interoperability and security. Annually-held ZKProof workshops, attended by world-renowned cryptographers, practitioners and industry leaders, are the optimal forum for discussing new proposals, reviewing cutting edge projects and advancing a community reference document that will ultimately serve as a trusted specification for the implementation of ZKP schemes and protocols. To learn more, visit our [main site](https://zkproof.org/about/).
+ZKProof is an open-industry academic initiative that seeks to mainstream zero-knowledge proof (ZKP) cryptography through an inclusive, community-driven standardization process that focuses on interoperability and security. Annually-held ZKProof workshops, attended by world-renowned cryptographers, practitioners and industry leaders, are the optimal forum for discussing new proposals, reviewing cutting edge projects and advancing a community reference document that will ultimately serve as a trusted specification for the implementation of ZKP schemes and protocols. To learn more, visit the [main ZKProof site](https://zkproof.org/about/).
 
 ## What Documentation
 
@@ -25,7 +25,7 @@ This page is a collection of all the different documentation related to the ZKPr
 ## Quick Links
 
 - Latest verion of the [ZKProof Community Reference](/pages/reference/reference.pdf) document
-- [Accepted papers](/pages/standards/proposals) to the [3rd ZKProof Workshop - Home Edition](https://zkproof.org/events/workshop3)
+- [Papers accepted](/pages/standards/proposals) to the [3rd ZKProof Workshop - Home Edition](https://zkproof.org/events/workshop3)
 
 
 ## Contributing

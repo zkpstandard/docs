@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Accepted Proposals
-parent: ZKProof Standards
+title: Accepted Papers
+parent: Community Standards
 nav_order: 2
 permalink: /standards/proposals
 ---
-# Accepted Proposals
+# Accepted Papers
 {: .no_toc }
 
 ## Table of contents
@@ -18,7 +18,7 @@ permalink: /standards/proposals
 
 In preparation for every workshop, the community submits papers on the security, implementation and applications of zero-knowledge proofs. If accepted, the papers are to be discussed at the upcoming workshop with the goal to convey and facilitate progress in zero-knowledge proof technology, by sharing knowledge among participants and by creating public living documents that convey the state of the art. Submissions can be along the following tracks:
 
-- **Community Proposals** serve as references and guidelines agreed upon by the community, that promote correct usage and interoperability of zero-knowledge proofs. We envision that subsequent work, to be defined in collaboration with standard bodies, will be required to gain official status as a normative standard.
+- **Community Proposals** serve as references and guidelines to be agreed upon by the community, that promote correct usage and interoperability of zero-knowledge proofs. We envision that subsequent work, to be defined in collaboration with standard bodies, will be required to gain official status as a normative standard.
 - **Systematization-of-Knowledge (SoK)** papers serve to map the state of the art on some specific aspect of the workshop’s scope. They should be comprehensive in covering the main approaches to that aspect, compare-and-contrast them, and offer effective conceptual frameworks for understanding the relations between these alternatives (e.g., models, distinguishing properties, metrics and decomposition into building blocks).
 
 ## Workshop 3 Accepted Papers

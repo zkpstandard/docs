@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Standardization Process
-parent: ZKProof Standards
+parent: Community Standards
 nav_order: 1
 permalink: /standards/process
 ---
