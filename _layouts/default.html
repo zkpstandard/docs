@@ -71,7 +71,7 @@ layout: table_wrappers
               {{ content }}
             {% endif %}
 
-          {% if page.has_children == true and page.has_toc != false %}
+          <!-- {% if page.has_children == true and page.has_toc != false %}
             <hr>
             <h2 class="text-delta">Table of contents</h2>
             {% assign children_list = site.pages | sort:"nav_order" %}
@@ -84,7 +84,7 @@ layout: table_wrappers
                 {% endif %}
               {% endfor %}
             </ul>
-          {% endif %}
+          {% endif %} -->
 
           {% if site.footer_content != nil %}
             <hr>

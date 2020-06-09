@@ -11,6 +11,12 @@ permalink: /reference/process
 
 The ZKProof Community Reference is a live document, developed by on-going contributions from the community. Its initial basis was developed during the [1st ZKProof Workshop, 2018](https://zkpstandard.github.io/zkproof.github.io/first_workshop.html). We have defined an editorial process to improve the [ZKProof Community Reference](/pages/reference/reference.pdf) in a collaborative manner. Every year, after the annual ZKProof Workshop, a new cycle of editing will begin, starting from the discussions and [accepted papers](/standards/proposals) to the annual workshops.
 
+**Editors**
+
+- Daniel Benarroch, QEDIT
+- Luis Brandao, NIST
+- Eran Tromer, Columbia University and TAU
+
 ## Table of contents
 {: .no_toc .text-delta }
 
@@ -25,11 +31,7 @@ We have published [version 0.2 of the document](/pages/reference/reference.pdf),
 
 The period **Jan 01 to July 31 (2020)** is open for public feedback on all aspects of the ZKProof Community Reference version 0.2. The feedback will be helpful to prepare topics of discussion at the [3rd ZKProof workshop (April 20 – May 21)](https://zkproof.org/events/workshop3), which will kick-off a new cycle open to contributions. Please send your feedback by email to [editors@zkproof.org](mailto:editors@zkproof.org).
 
-**Editors**
 
-- Daniel Benarroch, QEDIT
-- Luis Brandao, NIST
-- Eran Tromer, Columbia University and TAU
 
 
 ## Cycle 2019-2020
