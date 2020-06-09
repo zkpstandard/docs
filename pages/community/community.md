@@ -45,7 +45,7 @@ Once you received a badge, you can (1) download the badge as a png image, which 
 
 ## Accomplishment Badges
 
-These badges are awarded for specific accomplishments and contributions to the effort and the community. The badges use the analogy of mythical creatures to exemplify the rarity of the people who dedicate their time to leading the effort and the industry.
+These badges are awarded for specific accomplishments and contributions to the effort and the community. The badges use the analogy of mythical creatures to exemplify the uniqueness of the people who dedicate their time to leading the effort and the industry.
 
 
 Badge | Description | Earning Criteria | Number Awarded  
