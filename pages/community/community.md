@@ -50,11 +50,11 @@ These badges are awarded for specific accomplishments and contributions to the e
 
 Badge | Description | Earning Criteria | Number Awarded  
 :------:|:-------------|:------------------|:----------------
-![oracle](/pages/community/badges/oracle.png) **ZKProof Oracle** | The ZKProof Oracles build the fundamental community knowledge base that serves both new and existing members of the community. | Make a contribution to the ZKProof Community Reference document | 14 
-![storyteller](/pages/community/badges/storyteller.png) **ZKProof Storyteller** | The ZKProof Storytellers use their powers for the creation of the shared narratives, formulas and new understandings of Zero-Knowledge proofs. | Be an author of an accepted standard proposal or standardization of knowledge| 10 
-![trailblazer](/pages/community/badges/trailblazer.png) **ZKProof Trailblazer** | ZKProof Trailblazers use their powers to unite the community, generate and encourage contributions and support the global movement. | Be one of the 10 most active members in the ZKProof community forum in the past year in all three categories: new topics, comments posted and likes received. | 1 
+![oracle](/pages/community/badges/oracle.png) **ZKProof Oracle** | The ZKProof Oracles build the fundamental community knowledge base that serves both new and existing members of the community. | Make a contribution to the ZKProof Community Reference document | 10 
+![storyteller](/pages/community/badges/storyteller.png) **ZKProof Storyteller** | The ZKProof Storytellers use their powers for the creation of the shared narratives, formulas and new understandings of Zero-Knowledge proofs. | Be an author of an accepted standard proposal or standardization of knowledge| 25 
+![trailblazer](/pages/community/badges/trailblazer.png) **ZKProof Trailblazer** | ZKProof Trailblazers use their powers to unite the community, generate and encourage contributions and support the global movement. | Be one of the 10 most active members in the ZKProof community forum in the past year in all three categories: new topics, comments posted and likes received. | 0 
 ![chronicler](/pages/community/badges/chronicler.png) **ZKProof Chronicler** | The ZKProof Chroniclers apply their expertise to record important knowledge and discourse for the benefit of the community. | Be a notetaker in a ZKProof discussion at one of the annual workshops. | 6 
-![wizard](/pages/community/badges/wizard.png) **ZKProof Wizard** | The ZKProof Wizards create visuals, materials and other magical artifacts to support the community activities and aid in the embodiment of Zero-Knowledge Proofs standards. | Assist in visual design, art or other creative processes to the ZKProof community. | -- 
+![wizard](/pages/community/badges/wizard.png) **ZKProof Wizard** | The ZKProof Wizards create visuals, materials and other magical artifacts to support the community activities and aid in the embodiment of Zero-Knowledge Proofs standards. | Assist in visual design, art or other creative processes to the ZKProof community. | 1
 
 ---
 
@@ -66,7 +66,7 @@ The **Growth Badges** are awarded to the community members who consistently part
 
 Badge | Earning Criteria | Number Awarded | Year Awarded   
 :------:|:------------------|:----------------|:--------------
-:![rookie](/pages/community/badges/growth2.png) **ZKProof Rookie** | A badage for those who participated in at least two ZKProof workshops. | XX | 2020
-![pro](/pages/community/badges/growth3.png) **ZKProof Pro** | A badge for those who participated in at least three ZKProof workshops | XX | 2020
+:![rookie](/pages/community/badges/growth2.png) **ZKProof Rookie** | A badage for those who participated in at least two ZKProof workshops. | 56 | 2020
+![pro](/pages/community/badges/growth3.png) **ZKProof Pro** | A badge for those who participated in at least three ZKProof workshops | 19 | 2020
 ![senior](/pages/community/badges/growth4.png) **ZKProof Senior** | A badge for those who participated in at least 4 ZKProof workshops | 0 | 2021
 ![veteran](/pages/community/badges/growth5.png) **ZKProof Veteran** | A badge for those who participated in at least 5 ZKProof workshops | 0 | 2022
