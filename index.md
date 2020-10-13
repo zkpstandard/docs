@@ -24,7 +24,7 @@ This page is a collection of all the different documentation related to the ZKPr
 
 ## Quick Links
 
-- Latest verion of the [ZKProof Community Reference](/pages/reference/reference.pdf) document
+- Latest version of the [ZKProof Community Reference](/pages/reference/reference.pdf) document
 - [Papers accepted](/pages/standards/proposals) to the [3rd ZKProof Workshop - Home Edition](https://zkproof.org/events/workshop3)
 
 
