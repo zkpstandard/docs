@@ -26,7 +26,7 @@ In preparation for every workshop, the community submits papers on the security,
 [Here](https://zkproof.org/events/workshop4/call-papers/) is the call for papers for this edition of the workshop.
 
 - [_Proposal: Leo: A Programming Language for Formally Verified, Zero-Knowledge Applications_](/pages/standards/accepted-workshop4/proposal-leo.pdf) - Collin Chin, Howard Wu, Raymond Chu, Alessandro Coglio, Eric McCarthy and Eric Smith
-- [_**Resubmission:** Proposal: Commit-and-Prove Zero-Knowledge Proof Systems and Extensions_](/pages/standards/accepted-workshop4/proposal-commit.pdf) - Daniel Benarroch, Matteo Campanelli, Dario Fiore, Jihye Kim, Jiwon Lee, Hyunok Oh and Anaïs Querol
+- **Resubmission:**[_ Proposal: Commit-and-Prove Zero-Knowledge Proof Systems and Extensions_](/pages/standards/accepted-workshop4/proposal-commit.pdf) - Daniel Benarroch, Matteo Campanelli, Dario Fiore, Jihye Kim, Jiwon Lee, Hyunok Oh and Anaïs Querol
 - [_Proposal: $\Sigma$-protocols_](/pages/standards/accepted-workshop4/proposal-sigma.pdf) - Stephan Krenn and Michele Orrù 
 - [_Proposal: Rinocchio: SNARKs for Ring Arithmetic_](/pages/standards/accepted-workshop4/proposal-rinocchio.pdf) - Chaya Ganesh, Anca Nituescu and Eduardo Soria-Vazquez
 - [_Proposal: An Algebraic Framework for Universal and Updatable zkSNARKs_](/pages/standards/accepted-workshop4/proposal-algebraic.pdf) - Carla Ràfols and Arantxa Zapico
