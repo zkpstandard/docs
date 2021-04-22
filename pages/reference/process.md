@@ -49,9 +49,6 @@ You can find the notes from the discussions that took place in the â€œbreakoutâ€
 
 The received and integrated contributions are documented in the Diff (diff-v0.2-from-v0.1.pdf) and also reflected in the [GitHub page](https://github.com/zkpstandard/zkreference/issues). Each contribution is tagged as _suggested_, _confirmed_, _submitted_ and _integrated_ as per its current status, which allows the community to track the state of the contributions. Contributions may be of several types, such as: writing a new section or paragraph; creating or editing a table; upgrading the bibliography; editing typos, etc.
 
-## Cycle 2018
-
-A set of three documents was created in the 1st ZKProof Workshop.
 
 ### Submission Process
 
@@ -80,3 +77,6 @@ Choose any of these three official methods to submit your contribution:
 - __GitHub issues:__ submit the contribution to the GitHub issue previously created about the intended contribution.
 - __GitHub pull requests:__ you can also submit a GitHub pull request to the master branch of the zkreference repository with the contribution integrated into the LaTeX document.
 
+## Cycle 2018
+
+A set of three documents was created in the 1st ZKProof Workshop.
