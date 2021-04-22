@@ -14,8 +14,10 @@ The ZKProof Community Reference is a live document, developed by on-going contri
 **Editors**
 
 - Daniel Benarroch, QEDIT
-- Luis Brandao, NIST
+- Luís Brandão, NIST/STRATIVIA
 - Eran Tromer, Columbia University and TAU
+
+Please send your feedback by email to [editors@zkproof.org](mailto:editors@zkproof.org).
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -25,19 +27,31 @@ The ZKProof Community Reference is a live document, developed by on-going contri
 
 ---
 
-## Cycle 2020-2021
+## Cycle 2021
 
-We have published [version 0.2 of the document](/pages/reference/reference.pdf), dated December 31, 2019. We thank all the received contributions. You can see the specific changes in the "[diff](/pages/reference/diffs/diff-v0.2-from-v0.1.pdf)" file in this repo. To finalize this cycle of development of the ZKProof Community Reference, and prepare for the next one, we are opening a call for feedback on the current version.
+Editorial work has continued in the months before the 4th ZKProof Workshop. Contributions are being collected to expand Chapter 2 on ZKP Paradigms. Further contributions will be collected during the 4th ZKProof Workshop, and we hope to to publish ZCR v0.3 by the end of 2021.
 
-The period **Jan 01 to July 31 (2020)** is open for public feedback on all aspects of the ZKProof Community Reference version 0.2. The feedback will be helpful to prepare topics of discussion at the [3rd ZKProof workshop (April 20 – May 21)](https://zkproof.org/events/workshop3), which will kick-off a new cycle open to contributions. Please send your feedback by email to [editors@zkproof.org](mailto:editors@zkproof.org).
+## Cycle 2020
+
+We have published [version 0.2 of the document](/pages/reference/reference.pdf), dated December 31, 2019. We thank all the received contributions. You can see the specific changes in the "[diff](/pages/reference/diffs/diff-v0.2-from-v0.1.pdf)" file in this repo. To finalize this cycle of development of the ZKProof Community Reference, and prepare for the next one, we had a call for feedback on the period **Jan 01 to July 31 (2020)**. 
+
+The feedback was requested in order to prepare topics of discussion for the [3rd ZKProof workshop (April 20 – May 21)](https://zkproof.org/events/workshop4), which kicked-off a new cycle open to contributions.
+
+On August 14th, we published the call for contributions for this cycle. It can be found our the [GitHub repository](https://github.com/zkpstandard/zkreference/blob/master/Call-2020-for-contribs-to-ZCRef.pdf).
+
+Note that this cycle did not produce a new version of the ZkpComRef, so it was decided to the continue the work throughout the following cycle.
 
 
 
+## Cycle 2019
 
-## Cycle 2019-2020
 You can find the notes from the discussions that took place in the “breakout” and “proposal” sessions at the [2nd ZKProof Workshop](https://zkproof.org/events/workshop2) in [the community forum](https://community.zkproof.org/t/2nd-zkproof-standards-workshop-in-berkeley-april-10-12/60/2).
 
 The received and integrated contributions are documented in the Diff (diff-v0.2-from-v0.1.pdf) and also reflected in the [GitHub page](https://github.com/zkpstandard/zkreference/issues). Each contribution is tagged as _suggested_, _confirmed_, _submitted_ and _integrated_ as per its current status, which allows the community to track the state of the contributions. Contributions may be of several types, such as: writing a new section or paragraph; creating or editing a table; upgrading the bibliography; editing typos, etc.
+
+## Cycle 2018
+
+A set of three documents was created in the 1st ZKProof Workshop.
 
 ### Submission Process
 
