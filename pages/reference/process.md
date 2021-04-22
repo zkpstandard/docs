@@ -29,7 +29,7 @@ Please send your feedback by email to [editors@zkproof.org](mailto:editors@zkpro
 
 ## Cycle 2021
 
-Editorial work has continued in the months before the 4th ZKProof Workshop. Contributions are being collected to expand Chapter 2 on ZKP Paradigms. Further contributions will be collected during the 4th ZKProof Workshop, and we hope to to publish ZCR v0.3 by the end of 2021.
+Editorial work has continued in the months before the 4th ZKProof Workshop. Contributions are being collected to expand Chapter 2 on ZKP Paradigms. Further contributions will be collected during the 4th ZKProof Workshop, and we hope to publish ZCR v0.3 by the end of 2021.
 
 ## Cycle 2020
 
