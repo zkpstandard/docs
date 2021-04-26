@@ -29,5 +29,5 @@ Name | Last Name | Description | Issue | Submission Date
 
 - [Security document](/pages/reference/versions/zkproof-security-20180801.pdf)
 - [Implementation document](/pages/reference/versions/zkproof-implementation-20180801.pdf)
-- [Applications document](/pages/reference/versions/zkproof-security-20180801.pdf)
+- [Applications document](/pages/reference/versions/zkproof-applications-20180801.pdf)
 
