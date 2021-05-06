@@ -26,14 +26,30 @@ In preparation for every workshop, the community submits papers on the security,
 [Here](https://zkproof.org/events/workshop4/call-papers/) is the call for papers for this edition of the workshop.
 
 - [_Proposal: Leo: A Programming Language for Formally Verified, Zero-Knowledge Applications_](/pages/standards/accepted-workshop4/proposal-leo.pdf) - Collin Chin, Howard Wu, Raymond Chu, Alessandro Coglio, Eric McCarthy and Eric Smith
+    - [Slides](/pages/standards/slides-w4/.pdf)
+    - [Recording](https://youtu.be/iesuF4Bu2f4)
 - **Resubmission:**[_Proposal: Commit-and-Prove Zero-Knowledge Proof Systems and Extensions_](/pages/standards/accepted-workshop4/proposal-commit.pdf) - Daniel Benarroch, Matteo Campanelli, Dario Fiore, Jihye Kim, Jiwon Lee, Hyunok Oh and Anaïs Querol
+    - [Slides](/pages/standards/slides-w4/cp-extensions.pdf)
+    - [Recording](https://youtu.be/MWvADbFCQT8)
 - [_Proposal: $\Sigma$-protocols_](/pages/standards/accepted-workshop4/proposal-sigma.pdf) - Stephan Krenn and Michele Orrù 
+    - [Slides](/pages/standards/slides-w4/sigma.pdf)
+    - [Recording](https://youtu.be/bh0hBwxOiVI)
 - [_Proposal: Rinocchio: SNARKs for Ring Arithmetic_](/pages/standards/accepted-workshop4/proposal-rinocchio.pdf) - Chaya Ganesh, Anca Nituescu and Eduardo Soria-Vazquez
+    - [Slides](/pages/standards/slides-w4/Rinocchio.pdf)
+    - [Recording](https://youtu.be/po4r4_cASTw)
 - [_Proposal: An Algebraic Framework for Universal and Updatable zkSNARKs_](/pages/standards/accepted-workshop4/proposal-algebraic.pdf) - Carla Ràfols and Arantxa Zapico
+    - [Slides](/pages/standards/slides-w4/algebraic.pdf)
+    - [Recording](https://youtu.be/ovQoMcd7plU) 
 - [_Proposal: Framework for Snarky Ceremonies_](/pages/standards/accepted-workshop4/proposal-ceremonies.pdf) - Markulf Kohlweiss, Mary Maller, Mikhail Volkhov and Janno Siim
+    - [Slides](/pages/standards/slides-w4/ceremonies.pdf)
+    - [Recording](https://youtu.be/fo0BmpyBhS8) 
 - [_Proposal: Practical Groth16 Aggregation_](/pages/standards/accepted-workshop4/proposal-aggregation.pdf) - Nicolas Gailly, Mary Maller and Anca Nitulescu
+    - [Slides](/pages/standards/slides-w4/SNARKpack.pdf)
+    - [Recording](https://youtu.be/anlJsxEj-Zc) 
 - [_SoK: Formal Security Analysis of MPC-in-the-Head Zero-Knowledge Protocols_](/pages/standards/accepted-workshop4/sok-formal.pdf) - Nikolaj Sidorenco, Sabine Oechsner and Bas Spitters
-
+    - [Slides](/pages/standards/slides-w4/sok-mpc.pdf)
+    - [Recording](https://youtu.be/E9oBq09n3Q8)
+        
 ## Workshop 3 Accepted Papers
 
 [Here](https://zkproof.org/events/papers) is the call for papers for this edition of the workshop.
