@@ -1,3 +1,11 @@
+---
+layout: default
+title: Recordings & Slides
+nav_order: 6
+has_children: false
+permalink: /presentations
+---
+
 # ZKProof Recordings and Slides
 
 List of public presentations at ZKProof-related events, with links to videos and slide-decks.
