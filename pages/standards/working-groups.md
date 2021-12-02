@@ -16,15 +16,13 @@ permalink: /standards/wg
 
 ---
 
-# ZKProof Working Groups (WG) and other proposals <!--, WGs, and SoKs -->
-
 This page collects links to all resources about working groups (WG) in the ZKProof Standardization effort, as well as proposals and systematizations of knowledge submitted to ZKProof workshops.
 
 For comments and updates, please email `editors at zkproof dot org`.
 
 **About Proposals vs. WGs vs. Standards:** Throughout various ZKProof workshops, "proposals" were submitted for discussion by the community. Some of these led to the creation of "working groups" (WG) intended to subsequently develop/refine/improve the proposals, possibly toward future standards. Information about other proposals can be found in the _Community Standards_ section under ["Accepted Papers"](https://docs.zkproof.org/standards/proposals).
 
-### Active WGs
+## Active WGs
 
 | \#| WG Name (Telegram Group) | Goal | Repo | Documents |
 | - | -------- | -------- | ----- | ----|
@@ -35,13 +33,13 @@ For comments and updates, please email `editors at zkproof dot org`.
 | 5 | Snark-Friendly Primitives ([TG](https://t.me/joinchat/VM4YKXPiLq0Lxkuh)) | Standardize the use of specific cryptographic primitives inside of the circuit of a ZK system | [repo](https://github.com/daira/zkproof) | [Charter](https://hackmd.io/AY8DfYzyQiaSHbrhSmgOpQ), [Notes](https://hackmd.io/@workshop4/zcr-primitives) |
 
 
-### Other Discussion Groups
+## Other Discussion Groups
 
-| \#| WG Name | Goal | Repo | Documents |
+| \#| WG Name (Telegram Group) | Goal | Repo | Documents |
 | - | -------- | -------- | ----- | ----|
-| 1 | Groth16 & SnarkPack ([TG](https://t.me/joinchat/2AivFqHTj4ViYTNk)) | Standardize Groth16 and aggregation/amortization methods | N/A | [W4](https://docs.zkproof.org/pages/standards/accepted-workshop4/proposal-aggregation.pdf), [Notes](https://hackmd.io/@workshop4/aggregation)|
-| 2 | Rinocchio: SNARKs for Ring Arithmetic ([TG](https://t.me/joinchat/3HS-fhBs5II5NDY0)) | Standardize a generic method for using ZK over rings, yielding efficiency improvements for some applications | N/A | [W4](https://docs.zkproof.org/pages/standards/accepted-workshop4/proposal-rinocchio.pdf), [Notes](https://hackmd.io/@workshop4/rinocchio) |
-| 3 | Leo: A Programming Language for Formally Verified ZK Applications ([TG](https://t.me/leolanguage)) | Standardize the fundamental components of a ZK language | N/A | [W4](https://docs.zkproof.org/pages/standards/accepted-workshop4/proposal-leo.pdf), [Notes](https://hackmd.io/@workshop4/leo) |
+| 1 | Groth16 & SnarkPack ([TG](https://t.me/joinchat/2AivFqHTj4ViYTNk)) | Standardize Groth16 and aggregation/amortization methods | --- | [W4](https://docs.zkproof.org/pages/standards/accepted-workshop4/proposal-aggregation.pdf), [Notes](https://hackmd.io/@workshop4/aggregation)|
+| 2 | Rinocchio: SNARKs for Ring Arithmetic ([TG](https://t.me/joinchat/3HS-fhBs5II5NDY0)) | Standardize a generic method for using ZK over rings, yielding efficiency improvements for some applications | --- | [W4](https://docs.zkproof.org/pages/standards/accepted-workshop4/proposal-rinocchio.pdf), [Notes](https://hackmd.io/@workshop4/rinocchio) |
+| 3 | Leo: A Programming Language for Formally Verified ZK Applications ([TG](https://t.me/leolanguage)) | Standardize the fundamental components of a ZK language | --- | [W4](https://docs.zkproof.org/pages/standards/accepted-workshop4/proposal-leo.pdf), [Notes](https://hackmd.io/@workshop4/leo) |
 
 
 
