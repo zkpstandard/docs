@@ -30,7 +30,8 @@ For comments and updates, please email `editors at zkproof dot org`.
 
 | \#| WG Name (Telegram Group) | Goal | Repo | Documents | 
 | - | -------- | -------- | ----- | ----|
-| 1 | [Commit-and-Prove ZKP Systems & Extensions](https://t.me/joinchat/Ua0M-VFxwB59HA-u) | Standardize how to modularly create verifiable commitments and ciphertexts with any ZK system    |  [repo](https://github.com/dariofiore/wg-cpzkp-standard)  |   [W2](https://docs.zkproof.org/pages/standards/accepted-workshop2/proposal--zk-commit-and-prove.pdf), [W3](), [W4](https://docs.zkproof.org/pages/standards/accepted-workshop4/proposal-commit.pdf), [Notes](https://hackmd.io/@workshop4/commit), [Slides](https://www.binarywhales.com/assets/misc/CP-standard-ZKProof-slides.pdf),  [Charter](https://hackmd.io/@dariofiore/rkXo8EBp8)
+| 1 | Commit-and-Prove ZKP Systems & [Extensions](https://t.me/joinchat/Ua0M-VFxwB59HA-u) | Standardize how to
+ modularly create verifiable commitments and ciphertexts with any ZK system    |  [repo](https://github.com/dariofiore/wg-cpzkp-standard)  |   [W2](https://docs.zkproof.org/pages/standards/accepted-workshop2/proposal--zk-commit-and-prove.pdf), [W3](), [W4](https://docs.zkproof.org/pages/standards/accepted-workshop4/proposal-commit.pdf), [Notes](https://hackmd.io/@workshop4/commit), [Slides](https://www.binarywhales.com/assets/misc/CP-standard-ZKProof-slides.pdf),  [Charter](https://hackmd.io/@dariofiore/rkXo8EBp8)
 | 2 | [Σ-protocols](https://t.me/joinchat/Bg3emHC1tD04N2Jk) | Standardize ZK interactive sigma protocols| [repo](https://github.com/zkpstandard/wg-sigma-protocols) | [W4](https://docs.zkproof.org/pages/standards/accepted-workshop4/proposal-sigma.pdf)
 | 3 | [DAPOL]() | v | --- | [W3](https://eprint.iacr.org/2020/468), [CCS21](https://eprint.iacr.org/2021/1350), [ACNS21](https://eprint.iacr.org/2021/239), [Notes](https://hackmd.io/wTDRz9xUR4SrYSO3HSq9Jg?view) |
 | 4 | [zkInterface](https://t.me/joinchat/WMsiVhK9n6avLeuo) | Standardize interoperability between frontends and backends in ZK systems | [repo](https://github.com/QED-it/zkinterface) | [W2](https://docs.zkproof.org/pages/standards/accepted-workshop2/proposal--zk-interop-zkinterface.pdf), [W3](https://docs.zkproof.org/pages/standards/accepted-workshop3/proposal-zkinterface.pdf), [Notes](https://hackmd.io/@HtwXZr-PTFCniCs7fWFSmQ/ryoXg2BYL) |
@@ -38,15 +39,13 @@ For comments and updates, please email `editors at zkproof dot org`.
 
 
 
-<!-- ### Inactive / Dormant -->
 
 ### Other Discussion Groups
 
-
-<!--| \#| WG Name | Original proposal (workshop) | Telegram group | Github repository | Discussion notes | -->
 | \#| WG Name | Goal | Repo | Documents | 
 | - | -------- | -------- | ----- | ----|
-| 1 | [Groth16 & SnarkPack](https://t.me/joinchat/2AivFqHTj4ViYTNk) | Standardize Groth16 and aggregation/amortization methods | N/A | [W4](https://docs.zkproof.org/pages/standards/accepted-workshop4/proposal-aggregation.pdf), [Notes](https://hackmd.io/@workshop4/aggregation)
+| 1 | [Groth16 & SnarkPack](https://t.me/joinchat/2AivFqHTj4ViYTNk) | Standardize Groth16 and aggregation
+/amortization methods | N/A | [W4](https://docs.zkproof.org/pages/standards/accepted-workshop4/proposal-aggregation.pdf), [Notes](https://hackmd.io/@workshop4/aggregation)|
 | 2 | [Rinocchio: SNARKs for Ring Arithmetic](https://t.me/joinchat/3HS-fhBs5II5NDY0) | Standardize a generic method for using ZK over rings, yielding efficiency improvements for some applications | N/A | [W4](https://docs.zkproof.org/pages/standards/accepted-workshop4/proposal-rinocchio.pdf), [Notes](https://hackmd.io/@workshop4/rinocchio) |
 | 3 | [Leo: A Programming Language for Formally Verified ZK Applications](https://t.me/leolanguage) | Standardize the fundamental components of a ZK language | N/A | [W4](https://docs.zkproof.org/pages/standards/accepted-workshop4/proposal-leo.pdf), [Notes](https://hackmd.io/@workshop4/leo) |
 
