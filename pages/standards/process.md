@@ -2,7 +2,7 @@
 layout: default
 title: Standardization Process
 parent: Community Standards
-nav_order: 1
+nav_order: 3
 permalink: /standards/process
 ---
 # Standardization Proces

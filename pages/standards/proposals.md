@@ -2,7 +2,7 @@
 layout: default
 title: Accepted Papers
 parent: Community Standards
-nav_order: 2
+nav_order: 1
 permalink: /standards/proposals
 ---
 # Accepted Papers
