@@ -15,6 +15,7 @@ The ZKProof Community Reference is a live document, developed by on-going contri
 
 - Daniel Benarroch, QEDIT
 - Luís Brandão, NIST/STRATIVIA
+- Mary Maller, Ethereum Foundation
 - Eran Tromer, Columbia University and TAU
 
 Please send your feedback by email to [editors@zkproof.org](mailto:editors@zkproof.org).
