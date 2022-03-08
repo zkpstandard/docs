@@ -8,28 +8,36 @@ permalink: /schemes
 
 # ZKProof Wiki of Concrete ZKP Schemes
 
-This wiki (ongoing work) is a resource complementary to the [ZKProof Community Reference](https://docs.zkproof.org/pages/reference/reference.pdf). The goal is to collect in one place many references about concrete ZKP schemes. For each scheme there a summarized description and various references to available public resources. 
+This wiki (ongoing work) is a resource complementary to the [ZKProof Community Reference](pages/reference/reference
+.pdf). The goal is to collect in one place many references about concrete ZKP schemes. For each scheme there is a
+ summarized description and various references to available public resources. 
 
 Schemes described here should have a rigorous technical writeup which fully specifies the scheme; clearly states its security properties, model and assumptions; and proves its security (at least at the proof-sketch level).
 
-The following is not an exhaustive list.  It contains references listed in a previous version of the ZkpComRef, as well as others suggested during edits. Clearly there are more relevant entries to add --- please send an email to editors@zkproof.com with your suggestions. Better yet, submit a description at https://forms.gle/NGm9xpUJBDyy6UFr6, following the instructions further below.
+The following is not an exhaustive list.  It contains references listed in a previous version of the ZkpComRef, as
+ well as others suggested during edits. Clearly there are more relevant entries to add --- please send an email to
+  [editors@zkproof.com]() with your suggestions. Better yet, submit a pull request to the [resources GitHub repo](https://github.com/zkpstandard/docs)
+  or submit a description at [https://forms.gle/NGm9xpUJBDyy6UFr6](https://forms.gle/NGm9xpUJBDyy6UFr6), following
+   the [instructions](#Template) further below.
 
 -----------------------
 # Index
 
-To-do: Ensure uniformity across references, as follows: start with a suggestive name (scheme name, or else ia.cr short ref, or initialized title, ...) with hyperlink to the paper, then follow with a a citation tag [authors-initials + year%100].
-
 ## Described:
 
-The descriptions are based on contributions obtained via https://forms.gle/NGm9xpUJBDyy6UFr6
+The descriptions are based on contributions obtained via [https://forms.gle/NGm9xpUJBDyy6UFr6](https://forms.gle/NGm9xpUJBDyy6UFr6)
 
 - [2021](#2021): [TurboIKOS](#TurboIKOS) \[GHSVYZ21\], [BooLigero](#BooLigero) \[GSV21\]
-- [2020](#2020): [Marlin](#Marlin) \[CHMMVW19\], [Virgo](#Virgo) \[ZXZS19\], [Virgo++](#Virgo++) \[ZLWZSXZ20\], [Ligero++](#Ligero++) \[BFHVXZ20\], [Mac’n’Cheese](#Mac’n’Cheese) \[BMRS20\]
+- [2020](#2020): [Marlin](#Marlin) \[CHMMVW19\], [Virgo](#Virgo) \[ZXZS19\], [Virgo++](#Virgo++) \[ZLWZSXZ20
+\], [Ligero++](#Ligero++) \[BFHVXZ20\], [Mac’n’Cheese](#Mac'n'Cheese) \[BMRS20\]
 - [2019](#2019): [Sonic](#Sonic) \[MBKM19\], [Libra](#Libra) \[XZZPS19\], [kimleeoh](#kimleeoh) \[KLO19\], [SAVER](#SAVER) \[YZ20\]
 - [2017](#2017): [vSQL](#vSQL) \[ZGKPP17\]
 
 ---
 ## To be described:
+
+The following schemes are yet to be described in the [template format](#Template) provided below.
+
 - **2022:** [NIZK Multiple Verifiers](https://ia.cr/2022/063) \[YW22\], [Feta](https://ia.cr/2022/082) \[BJOSS22\], [gOTzilla](https://ia.cr/2022/170) \[BCGHM22\], [ZK UNSAT](https://ia.cr/2022/206) \[LAHPTW22\]
 - **2021:** [Manta](https://ia.cr/2021/743) \[CXZ21\], [Nova](https://ia.cr/2021/370) \[KST21\], [Rinocchio](https://ia.cr/2021/322) \[GNS21\], [Limbo](https://ia.cr/2021/215) \[DGOT21\], [QuickSilver](https://ia.cr/2021/076) \[YSWW21\], [Limbo](https://ia.cr/2021/215) \[GOT21\], [IntRange](https://ia.cr/2021/540) \[CKLR21\], [SubexpDDH](https://ia.cr/2021/514) \[JJ21\], [Cerberus](https://ia.cr/2021/030) \[LSTW21\], [ConstOverZKRamProgs](https://ia.cr/2021/979) \[FKLOW21\]
 - **2020:** [HaloInfinite](https://ia.cr/2020/1536) \[BDFG20\], [Quarks (Xiphos and Kopis)](https://ia.cr/2020/1275) \[SL20\], [Dory](https://ia.cr/2020/1274) \[Lee20\], [Wolverine](https://ia.cr/2020/925) \[WYKW20\], [Bulletproofs+](https://ia.cr/2020/735) \[CHJKS20\], [SPARKS](https://ia.cr/2020/994) \[EFKP20\], [Plookup](https://ia.cr/2020/315) \[GW20\], [SuperSonic](https://ia.cr/2019/1229) \[BFS20\], [CompressedSigma](https://ia.cr/2020/152) \[AC20\], [LatticeZKviaOTC](https://ia.cr/2020/1448) \[LKS20\], [GeneralizedCompressedSigma](https://ia.cr/2020/1447) \[ACR20\], [PVZKfromBlockchain](https://ia.cr/2020/1435) \[SSV20\], [LinePointZK](https://ia.cr/2020/1446) \[DIO20\], [PublicCoinZKTime&Space](https://ia.cr/2020/1425) \[BHRRS20\], [Dory](https://ia.cr/2020/1274) \[Lee20\], [DoublyEfficientIP](https://ia.cr/2020/1247) \[ZLWZSXZ20\], [PqSnarks4Rsis-Rlwe](https://ia.cr/2020/1190) \[BCOS20\], [ZAPsAlgebraicLangs](https://ia.cr/2020/286) \[CH20\]
@@ -67,9 +75,9 @@ The descriptions are based on contributions obtained via https://forms.gle/NGm9x
 - **Models and assumptions:** One-way functions. Smaller weak commitments use ROM (can be removed). Non-interactivity achieved via Fiat-Shamir. 
 - **Relation to other schemes:** Focus is on concrete communication/proof size improvement within the setting of asymptotically linear MPC-in-the-head proofs. Shrinks Baum and Nof's PKC 2020 scheme from 4 field elems per gate to 2 field elems per gate. Our scheme has competitive communication/size with Katz, Kolesnikov, and Wang's CCS 2018 scheme with a different parameter tradeoff; our scheme is better for fewer emulated MPC parties (which would occur if lower runtime is desired compared to proof size).
 
-<details><summary>BibTex citation (click to open)</summary>
 
-```
+**BibTex citation**
+```bibtex
 @inproceedings{ACNS:GHSVYZ21,
     title={TurboIKOS: Improved Non-Interactive Zero Knowledge and Post-Quantum Signatures},
     author={Yaron Gvili and Julie Ha and Sarah Scheffler and Mayank Varia and Ziling Yang and Xinyuan Zhang},
@@ -83,8 +91,6 @@ The descriptions are based on contributions obtained via https://forms.gle/NGm9x
     year = 2021
 }
 ```
-</details>
-
 
 ### <a id="BooLigero"></a>BooLigero
 - **Available resources:** [paper@IACR](https://eprint.iacr.org/2021/121); <span style="color:red">No GitHub Code</span>
@@ -93,11 +99,14 @@ The descriptions are based on contributions obtained via https://forms.gle/NGm9x
 - **Information theoretic (IT) system:** MPC-in-the-Head, Interactive Oracle Proofs (IOP)
 - **Cryptographic compiler:** BCS'16 (IOP), AHIV'17 (Ligero)
 - **Complexity/efficiency:** Prover runtime: $S \cdot log(S)$ where $S$ is circuit size. Verifier runtime: S*log(S) where S is circuit size. Communication: $\sqrt{S}$ where $S$ is circuit size. Round complexity: constant
-- **Models and assumptions:** Coding theoretic assumption (same as Ligero: AHIV'17 Lemma 4.2). Non-interactivity comes from Fiat-Shamir. 
-- **Relation to other schemes:**  Improves Boolean circuit proof size over original Ligero (Ames, Hazay, Ishai, Venkitasubramaniam CCS'17) by $\sqrt{log(|F|)}$ where $F$ is the field; $F$ has a minimum size for Ligero to function. In practice this tends to be about a 1--4x proof size reduction.  Further improves upon Ligero by using highly batchable testing for Boolean relations such as as bit masking, even parity, permutations of bits, etc.
-<details><summary>BibTex citation (click to open)</summary>
+- **Models and assumptions:** Coding theoretic assumption (same as Ligero: AHIV'17 Lemma 4.2). Non-interactivity comes from Fiat-Shamir.
+- **Relation to other schemes:**  Improves Boolean circuit proof size over original Ligero (Ames, Hazay, Ishai
+, Venkitasubramaniam CCS'17) by $\sqrt{log(\|F\|)}$ where $F$ is the field; $F$ has a minimum size for Ligero to
+ function. In practice this tends to be about a 1-4x proof size reduction.  Further improves upon Ligero by using highly batchable testing for Boolean relations such as a bit masking, even parity, permutations of bits, etc.
 
-```
+**BibTex citation**
+
+```bibtex
 @inproceedings{FC:GviSchVar21,
     title={BooLigero: Improved Sublinear Zero Knowledge Proofs for Boolean Circuits},
     author={Gvili, Yaron and Scheffler, Sarah and Varia, Mayank},
@@ -108,7 +117,6 @@ The descriptions are based on contributions obtained via https://forms.gle/NGm9x
     year = 2021
 }
 ```
-</details>
 
 
 ## <a id="2020"></a>2020
@@ -122,9 +130,10 @@ The descriptions are based on contributions obtained via https://forms.gle/NGm9x
 - **Complexity/efficiency:** Efficiency depends on the maximum number of non-zero entries N across the matrices. When used with Marlin variant of KZG10, over BLS12-381: Proof size: 784 bytes. PK size: $3N$. VK size: 12 G1 + 2 G2. Verification time: < 8ms. Proving time: $O(N)$-sized MSMs over G1
 - **Models and assumptions:** ROM + AGM
 - **Relation to other schemes:** Alternative to Groth16 that provides universal setup. Alternative to standard that works with R1CS directly
-<details><summary>BibTex citation (click to open)</summary>
 
-```
+**BibTex citation**
+
+```bibtex
 @inproceedings{ChiesaHMMVW20,
     author = {Chiesa, Alessandro and Hu, Yuncong and Maller, Mary and Mishra, Pratyush and Vesely, Noah and Ward, Nicholas},
 title = {Marlin: Preprocessing {zkSNARKs} with Universal and Updatable {SRS}},
@@ -133,9 +142,7 @@ title = {Marlin: Preprocessing {zkSNARKs} with Universal and Updatable {SRS}},
     pages = {738--768},
     year = {2020},
 }
-
 ```
-</details>
 
 ### <a id="Virgo"></a>Virgo
 - **Available resources:** [paper@IACR](https://eprint.iacr.org/2019/1482); [code@GitHub](https://github.com/sunblaze-ucb/Virgo)
@@ -146,9 +153,10 @@ title = {Marlin: Preprocessing {zkSNARKs} with Universal and Updatable {SRS}},
 - **Complexity/efficiency:** Prover $O(C+n\log n)$; verifier $O(d\log C+\log^2 n)$; proof size $O(d \log C+\log^2 n)$; transparent setup with $O(1)$ RRS; non-interactive through Fiat-Shamir
 - **Models and assumptions:** Collision-resistant hash and ROM, Fiat-Shamir to remove interactivity
 - **Relation to other schemes:** It proposes a new polynomial commitment in IOP that removes the trusted setup.
-<details><summary>BibTex citation (click to open)</summary>
 
-```
+**BibTex citation**
+
+```bibtex
 @inproceedings{zhang2020transparent,
     title={Transparent polynomial delegation and its applications to zero knowledge proof},
     author={Zhang, Jiaheng and Xie, Tiancheng and Zhang, Yupeng and Song, Dawn},
@@ -157,9 +165,8 @@ title = {Marlin: Preprocessing {zkSNARKs} with Universal and Updatable {SRS}},
     year={2020},
     organization={IEEE}
 }
-
 ```
-</details>
+
 
 ### <a id="Virgo++"></a>Virgo++
 - **Available resources:** [paper@IACR](https://eprint.iacr.org/2020/1247); [code@GitHub](https://github.com/TAMUCrypto/virgo-plus)
@@ -170,19 +177,17 @@ title = {Marlin: Preprocessing {zkSNARKs} with Universal and Updatable {SRS}},
 - **Complexity/efficiency:** Prover $O(C+n\log n)$; verifier $O(d\log C+d^2+\log^n)$; proof size $O(d\log C+d^2+\log^n)$; transparent setup with $O(1)$ RRS; non-interactive through Fiat-Shamir
 - **Models and assumptions:** collision-resistant hash and ROM, Fiat-Shamir
 - **Relation to other schemes:** It generalizes the GKR protocol to general arithmetic circuits while keeping the prover time $O(C)$.
-<details><summary>BibTex citation (click to open)</summary>
 
-```
+**BibTex citation**
+
+```bibtex
 @inproceedings{zhang2021doubly,
     author = {Jiaheng Zhang and Tianyi Liu and Weijie Wang and Yinuo Zhang and Dawn Song and Xiang Xie and Yupeng Zhang},
     title = {Doubly Efficient Interactive Proofs for General Arithmetic Circuits with Linear Prover Time},
     booktitle = {Proceedings of the ACM SIGSAC Conference on Computer and Communications Security (CCS)},
     year = {2021},
 }
-
 ```
-</details>
-
 
 ### <a id="Ligero++"></a>Ligero++
 - **Available resources:** [paper@CCS2020](https://doi.org/10.1145/3372297.3417893)
@@ -194,9 +199,9 @@ title = {Marlin: Preprocessing {zkSNARKs} with Universal and Updatable {SRS}},
 - **Models and assumptions:** collision resistant hash and ROM, Fiat-Shamir
 - **Relation to other schemes:** It improves the proof size of Ligero to $O(\log^C)$ using the IOP of Aurora and Virgo
 
-<details><summary>BibTex citation (click to open)</summary>
+**BibTex citation**
 
-```
+```bibtex
 @inproceedings{bhadauria2020ligero++,
     title={Ligero++: a new optimized sublinear IOP},
     author={Bhadauria, Rishabh and Fang, Zhiyong and Hazay, Carmit and Venkitasubramaniam, Muthuramakrishnan and Xie, Tiancheng and Zhang, Yupeng},
@@ -205,7 +210,6 @@ title = {Marlin: Preprocessing {zkSNARKs} with Universal and Updatable {SRS}},
     year={2020}
 }
 ```
-</details>
 
 
 ### <a id="Mac'n'Cheese"></a>Mac'n'Cheese
@@ -214,12 +218,14 @@ title = {Marlin: Preprocessing {zkSNARKs} with Universal and Updatable {SRS}},
 - **Kind of statements:** Circuits with disjunctions, General circuits
 - **Information theoretic (IT) system:** Linear PCP, Ideal Linear Commitment (ILC), IPs with Linear Oracle Verification. It uses basic homomorphic MACs (similar to ILCs) to commit to the witness and then verifies the witness using Linear IOP/ILC techniques
 - **Cryptographic compiler:** vOLEs to implement homomorphic MACs, inner product argument to verify product relations
-- **Complexity/efficiency:** Prover and verifier time as well as memory are linear in statement size. The online proof size is $1+\varepsilon$ field elements per multiplication for arbitrary circuits and decreases to $O(max(|C_i|) + log(m))$ for a disjunction over $m$ circuits $C_i$. The computation/communication cost for the preprocessing is linear as well, but communication is much lower: per vOLE in $\mathbb{F}_{2^{61}-1}$ the communication is $0.42$ bits using e.g. Wolverine.
+- **Complexity/efficiency:** Prover and verifier time as well as memory are linear in statement size. The online
+ proof size is $1+\varepsilon$ field elements per multiplication for arbitrary circuits and decreases to $O(max(\|C_i\|) + log(m))$ for a disjunction over $m$ circuits $C_i$. The computation/communication cost for the preprocessing is linear as well, but communication is much lower: per vOLE in $\mathbb{F}_{2^{61}-1}$ the communication is $0.42$ bits using e.g. Wolverine.
 - **Models and assumptions:** LPN assumption to instantiate the vOLE, ROM (Fiat-Shamir) to reduce round complexity
 - **Relation to other schemes:** The protocol is related to the Wolverine protocol, although Mac'n'Cheese has a lower communication complexity. It has a comparable, although slightly worse, communication complexity than Quicksilver, and a comparable runtime to it. In comparison to Wolverine & Quicksilver, Mac'n'Cheese has a low communication overhead for disjunctions for which it is optimized.
-<details><summary>BibTex citation (click to open)</summary>
 
-```
+**BibTex citation**
+
+```bibtex
 @inproceedings{C:BMRS21,
     author = {Carsten Baum and
               Alex J. Malozemoff and
@@ -231,7 +237,6 @@ title = {Marlin: Preprocessing {zkSNARKs} with Universal and Updatable {SRS}},
   organization={Springer}
 }
 ```
-</details>
 
 ## <a id="2019"></a>2019
 
@@ -245,9 +250,10 @@ title = {Marlin: Preprocessing {zkSNARKs} with Universal and Updatable {SRS}},
 - **Models and assumptions:** ROM and (bilinear) algebraic group model.
 - **Relation to other schemes:** Preceeds Plonk and Marlin which are efficient with preprocessing
 - **Other comments:** Aggregator improves verifier time rather than proof size.
-<details><summary>BibTex citation (click to open)</summary>
 
-```
+**BibTex citation**
+
+```bibtex
 @inproceedings{MallerBKM19,
   author    = {Mary Maller and
                Sean Bowe and
@@ -261,7 +267,6 @@ title = {Marlin: Preprocessing {zkSNARKs} with Universal and Updatable {SRS}},
   year      = {2019},
 }
 ```
-</details>
 
 
 
@@ -275,6 +280,18 @@ title = {Marlin: Preprocessing {zkSNARKs} with Universal and Updatable {SRS}},
 - **Models and assumptions:** Extractability & KoE, ROM to remove interactivity
 - **Relation to other schemes:** Improves the prover time of the GKR protocol to linear in circuit size for any layered arithmetic circuit.
 
+**BibTex citation**
+
+```bibtex
+@inproceedings{xie2019libra,
+  title={Libra: Succinct zero-knowledge proofs with optimal prover computation},
+  author={Xie, Tiacheng and Zhang, Jiaheng and Zhang, Yupeng and Papamanthou, Charalampos and Song, Dawn},
+  booktitle={Annual International Cryptology Conference},
+  pages={733--764},
+  year={2019},
+  organization={Springer}
+}
+```
 
 ### <a id="kimleeoh"></a>kimleeoh
 - **Available resources:** [paper@IEEE](https://doi.org/10.1109/ACCESS.2020.3019980); [paper@IACR](https://eprint.iacr.org/2019/586)
@@ -287,6 +304,20 @@ is constructed from the quadratic arithmetic program (QAP), same as in Groth16.
 - **Models and assumptions:** ROM, algebraic model, KoE
 - **Relation to other schemes:** It adds simulation-extractability to Groth16, without sacrificing the proof size and other general computations, by using the hash function.
 
+**BibTex citation**
+
+```bibtex
+@article{kim2020simulation,
+  title={Simulation-extractable zk-SNARK with a single verification},
+  author={Kim, Jihye and Lee, Jiwon and Oh, Hyunok},
+  journal={IEEE Access},
+  volume={8},
+  pages={156569--156581},
+  year={2020},
+  publisher={IEEE}
+}
+
+```
 
 ### <a id="SAVER"></a>SAVER
 - **Available resources:** [paper@IACR](https://eprint.iacr.org/2020/1270)
@@ -297,9 +328,10 @@ is constructed from the quadratic arithmetic program (QAP), same as in Groth16.
 - **Complexity/efficiency:** It improves the efficiency of proving (public-key) encryption, compared with using existing ZKP schemes. It achieves the proving time of less than 1ms, while Groth16 requires 9s for proving RSA-OAEP-2048.
 - **Models and assumptions:** Algebraic model, KoE
 - **Relation to other schemes:** It takes the idea of commit-and-prove and extends it to encrypt-and-prove to improve the efficiency of encryption.
-<details><summary>BibTex citation (click to open)</summary>
 
-```
+**BibTex citation**
+
+```bibtex
 @article{lee2019saver,
   title={SAVER: Snark-friendly, Additively-homomorphic, and Verifiable Encryption and decryption with Rerandomization.},
   author={Lee, Jiwon and Choi, Jaekyoung and Kim, Jihye and Oh, Hyunok},
@@ -309,9 +341,10 @@ is constructed from the quadratic arithmetic program (QAP), same as in Groth16.
   year={2019}
 }
 ```
-</details>
 
 ## <a id="2018"></a>2018
+
+To be described.
 
 ## <a id="2017"></a>2017
 
@@ -324,9 +357,10 @@ is constructed from the quadratic arithmetic program (QAP), same as in Groth16.
 - **Complexity/efficiency:** Prover $O(C \log C)$; verifier $O(d \log C)$; proof size $O(d \log C)$; trusted setup with SRS of $O(C)$; non-interactive through Fiat-Shamir
 - **Models and assumptions:** KoE and ROM
 - **Relation to other schemes:** It is the first to combine the GKR protocol with a polynomial commitment.
-<details><summary>BibTex citation (click to open)</summary>
 
-```
+**BibTex citation**
+
+```bibtex
 @inproceedings{zhang2017vsql,
     title={vSQL: Verifying arbitrary SQL queries over dynamic outsourced databases},
     author={Zhang, Yupeng and Genkin, Daniel and Katz, Jonathan and Papadopoulos, Dimitrios and Papamanthou, Charalampos},
@@ -335,9 +369,7 @@ is constructed from the quadratic arithmetic program (QAP), same as in Groth16.
     year={2017},
     organization={IEEE}
 }
-
 ```
-</details>
 
 
 -----------------------
@@ -354,14 +386,14 @@ We'd like each concrete scheme to provide succinct information about the followi
 - **Models and assumptions:** 
 - **Relation to other schemes:** [Follows which previous schemes? Has it been superseded?]
 
-<details><summary>BibTex citation (click to open)</summary>
+**BibTex citation**
 
-```
+```bibtex
 insert bibtex entry
 ```
-</details>
 
-Please submit this information via the form: https://forms.gle/NGm9xpUJBDyy6UFr6
+Please submit this information via the form: [https://forms.gle/NGm9xpUJBDyy6UFr6](https://forms.gle/NGm9xpUJBDyy6UFr6) or submit a pull request to the [resources GitHub repo](https://github.com/zkpstandard/docs).
 
-The editors may make some editorial adjustments to the submitted content, to promote consistency. For comments, please send an email to editors (at) zkproof (dot) org.
+The editors may make some editorial adjustments to the submitted content, to promote consistency. For comments
+, please send an email to [editors@zkproof.org]().
 
