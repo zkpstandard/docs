@@ -52,8 +52,9 @@ We are open for public feedback on all aspects of the ZKProof Community Referenc
 
 Date | Version | Title | Editors | Other Links
 -----|---------|-------|---------|---------
-12-31-2019 | v0.2 [(PDF)](/pages/reference/reference.pdf) | ZKProof Community Reference | Daniel Benarroch, Luís Brandâo, Eran Tromer | [Diff PDF](/pages/reference/diffs/diff-v0.2-from-v0.1.pdf) & [Annotated Changes](/pages/reference/difs/changes-v0.2-from-v0.1.pdf)
-03-25-2019 | v0.1 [(PDF)](/pages/reference/versions/reference-v0.1.pdf) | Consolidated ZKProof Community Reference | Luís Brandâo | Ported to LaTeX
-05-12-2018 | v0.0-sec [(PDF)](/pages/reference/versions/zkproof-security-20180801.pdf) | ZKProof Standards Security Track Proceedings | Jens Groth, Yael Kalai, Muthu Venkitasubramaniam | [Google Doc](https://docs.google.com/document/d/1uXKovVpYuXRybCpFH97iMm9IVhzr2zfWCzrVm9jl5JA/edit?usp=sharing)
-05-12-2018 | v0.0-impl [(PDF)](/pages/reference/versions/zkproof-implementation-20180801.pdf) | ZKProof Standards Implementation Track Proceedings | Sean Bowe, Kobi Gurkan, Eran Tromer | [Google Doc](https://docs.google.com/document/d/1gcSXlQp1NOSza-8dBczL3X0KbLNvsYn4JXbpDMhUF2c/edit?usp=sharing)
-05-12-2018 | v0.0-app [(PDF)](/pages/reference/versions/zkproof-applications-20180801.pdf) | ZKProof Standards Applications Track Proceedings | Daniel Benarroch, Ran Canetti, Andrew Miller | [Google Doc](https://docs.google.com/document/d/1spgtYG8iXZ_NjUXdN8AEdKdGmaulE8r-mf7NsQ-_y4E/edit?usp=sharing)
+2022-Jul-17 | v0.3 [(PDF)](/pages/reference/versions/ZkpComRef-0-2.pdf) | ZKProof Community Reference | Daniel Benarroch, Luís Brandão, Mary Maller, Eran Tromer | 
+2019-Dec-31 | v0.2 [(PDF)](/pages/reference/reference.pdf) | ZKProof Community Reference | Daniel Benarroch, Luís Brandão, Eran Tromer | [Diff PDF](/pages/reference/diffs/diff-v0.2-from-v0.1.pdf) & [Annotated Changes](/pages/reference/difs/changes-v0.2-from-v0.1.pdf)
+2019-Apr-11 | v0.1 [(PDF)](/pages/reference/versions/ZkpComRef-0-1.pdf) | Consolidated ZKProof Community Reference | Luís Brandão | Ported to LaTeX
+2018-May-12 | v0.0-sec [(PDF)](/pages/reference/versions/zkproof-security-20180801.pdf) | ZKProof Standards Security Track Proceedings | Jens Groth, Yael Kalai, Muthu Venkitasubramaniam | [Google Doc](https://docs.google.com/document/d/1uXKovVpYuXRybCpFH97iMm9IVhzr2zfWCzrVm9jl5JA/edit?usp=sharing)
+2018-May-12 | v0.0-impl [(PDF)](/pages/reference/versions/zkproof-implementation-20180801.pdf) | ZKProof Standards Implementation Track Proceedings | Sean Bowe, Kobi Gurkan, Eran Tromer | [Google Doc](https://docs.google.com/document/d/1gcSXlQp1NOSza-8dBczL3X0KbLNvsYn4JXbpDMhUF2c/edit?usp=sharing)
+2018-May-12 | v0.0-app [(PDF)](/pages/reference/versions/zkproof-applications-20180801.pdf) | ZKProof Standards Applications Track Proceedings | Daniel Benarroch, Ran Canetti, Andrew Miller | [Google Doc](https://docs.google.com/document/d/1spgtYG8iXZ_NjUXdN8AEdKdGmaulE8r-mf7NsQ-_y4E/edit?usp=sharing)
