@@ -22,9 +22,24 @@ The latest version of the [ZKProof Community Reference](/pages/reference/referen
 
 ---
 
-## Latest Version
+## [Version 0.3](/pages/reference/versions/ZkpComRef-0-3.pdf)
 
-On December 31st, 2019, the editors of the ZKProof Community Reference published [version 0.2 of the document](/pages/reference/reference.pdf). We thank all the received contributions. You can see the specific changes in this [diff file](/pages/reference/diffs/diff-v0.2-from-v0.1.pdf). This is a live document, undergoing a cycle of development. Check the Call for Feedback below.
+In a nutshell, the main update from [v0.2](/pages/reference/versions/ZkpComRef-0-2.pdf) to [v0.3](/pages/reference/versions/ZkpComRef-0-3.pdf), compiled on 2022-July-17, was the revision of the **paradigms** chapter.
+
+The old section "Taxonomy of constructions" was replaced by a new section with "background" and then two sections on "Information-Theoretic Proof Systems" and "Cryptographic Compilers" were added. This change was inspired by Yuval Ishai's blog posts on IT proof systems [[1]([1](https://zkproof.org/2020/08/12/information-theoretic-proof-systems/)),[2](https://zkproof.org/2020/10/15/information-theoretic-proof-systems-part-ii/)].
+
+The "IP based" subsection (under "Linear IOP") was provided by Justin Thaler. The revised chapter was structured and edited by the ZKProof Editors. Various editorial corrections were externally suggested, during the public review phase. Some were incorporated, others are queued for future revisions. Suggestions from Jens Groth improved Table 1.1 in Section 1.2. We are grateful for the many contributions!
+
+**Upcoming:** The call for contributions toward v0.4 will be published soon
+
+
+## [Version 0.2](/pages/reference/versions/ZkpComRef-0-2.pdf)
+
+On 2019-December-31, the editors of the ZKProof Community Reference published [version 0.2 of the document](/pages/reference/reference.pdf). We thank all the received contributions. See the specific changes are marked in a [diff file](/pages/reference/diffs/diff-v0.2-from-v0.1.pdf). Highlights of v0.2:
+- A consolidated preamble: new abstract, new context “About this community reference”, new IP expectations; more detailed “Table of contents”; new “Executive summary”.
+- A “Version history” section and an “Acknowledgments” section after the main chapters.
+- A new chapter on “Construction paradigms”, encompassing the previous section on “Taxonomy” of constructions, and including a new section on “Interactivity”.
+- Several portions of revised text and content, for example on proofs of knowledge vs. membership, benchmark parameters, gadgets, and applications.
 
 ### Higlights of the new version
 
@@ -52,8 +67,8 @@ We are open for public feedback on all aspects of the ZKProof Community Referenc
 
 Date | Version | Title | Editors | Other Links
 -----|---------|-------|---------|---------
-2022-Jul-17 | v0.3 [(PDF)](/pages/reference/versions/ZkpComRef-0-2.pdf) | ZKProof Community Reference | Daniel Benarroch, Luís Brandão, Mary Maller, Eran Tromer | 
-2019-Dec-31 | v0.2 [(PDF)](/pages/reference/reference.pdf) | ZKProof Community Reference | Daniel Benarroch, Luís Brandão, Eran Tromer | [Diff PDF](/pages/reference/diffs/diff-v0.2-from-v0.1.pdf) & [Annotated Changes](/pages/reference/difs/changes-v0.2-from-v0.1.pdf)
+2022-Jul-17 | v0.3 [(PDF)](/pages/reference/versions/ZkpComRef-0-3.pdf) | ZKProof Community Reference | Daniel Benarroch, Luís Brandão, Mary Maller, Eran Tromer | 
+2019-Dec-31 | v0.2 [(PDF)](/pages/reference/versions/ZkpComRef-0-2.pdf) | ZKProof Community Reference | Daniel Benarroch, Luís Brandão, Eran Tromer | [Diff PDF](/pages/reference/diffs/diff-v0.2-from-v0.1.pdf) & [Annotated Changes](/pages/reference/difs/changes-v0.2-from-v0.1.pdf)
 2019-Apr-11 | v0.1 [(PDF)](/pages/reference/versions/ZkpComRef-0-1.pdf) | Consolidated ZKProof Community Reference | Luís Brandão | Ported to LaTeX
 2018-May-12 | v0.0-sec [(PDF)](/pages/reference/versions/zkproof-security-20180801.pdf) | ZKProof Standards Security Track Proceedings | Jens Groth, Yael Kalai, Muthu Venkitasubramaniam | [Google Doc](https://docs.google.com/document/d/1uXKovVpYuXRybCpFH97iMm9IVhzr2zfWCzrVm9jl5JA/edit?usp=sharing)
 2018-May-12 | v0.0-impl [(PDF)](/pages/reference/versions/zkproof-implementation-20180801.pdf) | ZKProof Standards Implementation Track Proceedings | Sean Bowe, Kobi Gurkan, Eran Tromer | [Google Doc](https://docs.google.com/document/d/1gcSXlQp1NOSza-8dBczL3X0KbLNvsYn4JXbpDMhUF2c/edit?usp=sharing)
