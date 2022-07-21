@@ -29,8 +29,6 @@ We are grateful and thank the many contributions!
 
 Available since 2022-July-17. In a nutshell, the main update from [v0.2](/pages/reference/versions/ZkpComRef-0-2.pdf) to [v0.3](/pages/reference/versions/ZkpComRef-0-3.pdf) was the revision of the **paradigms** chapter. The old section "Taxonomy of constructions" was replaced by a new "Background" section, followed by two sections on "Information-Theoretic Proof Systems" and "Cryptographic Compilers". This change was inspired by Yuval Ishai's blog posts on IT proof systems [[1]([1](https://zkproof.org/2020/08/12/information-theoretic-proof-systems/)),[2](https://zkproof.org/2020/10/15/information-theoretic-proof-systems-part-ii/)]. The "IP based" subsection (under "Linear IOP") was provided by Justin Thaler. The revised chapter was structured and edited by the ZKProof Editors. Various editorial corrections were externally suggested, during the public review phase. Some were incorporated, others are queued for future revisions. Suggestions from Jens Groth improved Table 1.1 in Section 1.2.
 
-
-
 The ZkpComRef 0.3 PDF file contains attached:
 - a .bib file mentioning all contributors and the editors, to facilitate citation
 - a .pdf file with a mindmap of the IT-proof systems
@@ -62,12 +60,11 @@ We are open for public feedback on all aspects of the ZKProof Community Referenc
 
 ## Version History of the ZkpComRef
 
-
 Date | Version Nº (PDF link) | Version hint | Editors | Other Links
 -----|---------|-------|---------|---------
 2022-Jul-17 |  [0.3](/pages/reference/versions/ZkpComRef-0-3.pdf) | (ZkpComRef) **Paradigms** addon | Daniel Benarroch, Luís Brandão, Mary Maller, Eran Tromer | Contains 2 attached files
 2019-Dec-31 | [0.2](/pages/reference/versions/ZkpComRef-0-2.pdf) | (ZkpComRef) **Consolidated** draft | Daniel Benarroch, Luís Brandão, Eran Tromer | [Diff PDF](/pages/reference/diffs/diff-v0.2-from-v0.1.pdf) & [Annotated Changes](/pages/reference/difs/changes-v0.2-from-v0.1.pdf)
 2019-Apr-11 | [0.1](/pages/reference/versions/ZkpComRef-0-1.pdf) | (ZkpComRef) 1st **LaTeX/PDF** compilation | Luís Brandão | [GitHub repo](https://github.com/zkpstandard/zkreference)
 2018-May-12 | [0.0-security](/pages/reference/versions/zkproof-security-20180801.pdf) | Proceedings Track **Security**  | Jens Groth, Yael Kalai, Muthu Venkitasubramaniam | [Google Doc](https://docs.google.com/document/d/1uXKovVpYuXRybCpFH97iMm9IVhzr2zfWCzrVm9jl5JA/edit?usp=sharing)
-2018-May-12 |  [0.0-imple-mentation](/pages/reference/versions/zkproof-implementation-20180801.pdf) | Proceedings Track **Implementation** | Sean Bowe, Kobi Gurkan, Eran Tromer | [Google Doc](https://docs.google.com/document/d/1gcSXlQp1NOSza-8dBczL3X0KbLNvsYn4JXbpDMhUF2c/edit?usp=sharing)
-2018-May-12 | [0.0-appli-cations](/pages/reference/versions/zkproof-applications-20180801.pdf) | Proceedings Track **Applications**  | Daniel Benarroch, Ran Canetti, Andrew Miller | [Google Doc](https://docs.google.com/document/d/1spgtYG8iXZ_NjUXdN8AEdKdGmaulE8r-mf7NsQ-_y4E/edit?usp=sharing)
+2018-May-12 |  [0.0-imple</br>mentation](/pages/reference/versions/zkproof-implementation-20180801.pdf) | Proceedings Track **Implementation** | Sean Bowe, Kobi Gurkan, Eran Tromer | [Google Doc](https://docs.google.com/document/d/1gcSXlQp1NOSza-8dBczL3X0KbLNvsYn4JXbpDMhUF2c/edit?usp=sharing)
+2018-May-12 | [0.0-appli</br>cations](/pages/reference/versions/zkproof-applications-20180801.pdf) | Proceedings Track **Applications**  | Daniel Benarroch, Ran Canetti, Andrew Miller | [Google Doc](https://docs.google.com/document/d/1spgtYG8iXZ_NjUXdN8AEdKdGmaulE8r-mf7NsQ-_y4E/edit?usp=sharing)
