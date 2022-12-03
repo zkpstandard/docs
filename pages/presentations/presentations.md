@@ -34,9 +34,9 @@ To suggest updates, please send an email to editors (at) zkproof (dot) org.
 #### 2022-Nov-15
 Full video of 1st day: https://youtu.be/TrcT3-VPOz4
 
-1. Keynote: _Linear-Time SNARKs for R1CS and Friends_. Justin Thaler (Georgetown). [Video](https://youtu.be/wnNKbWuY4wE), [Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2022-11-w5/20221115-zkproof5--justin-thaler--slides--Linear-Time SNARKs for-R1CS-and-friends.pdf)
+1. Keynote: _Linear-Time SNARKs for R1CS and Friends_. Justin Thaler (Georgetown). [Video](https://youtu.be/wnNKbWuY4wE), [Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2022-11-w5/20221115-zkproof5--justin-thaler--slides--Linear-Time-SNARKs-for-R1CS-and-friends.pdf)
 1. _Halo2 and Standardizing Plonk_. Aurelien Nicolas (QEDIT, Scroll). [Video](https://youtu.be/Zc88-7u-wfo)
-1. _aPlonK: Aggregated PlonK from Multi-Polynomial Commitment Schemes_. Miguel Ambrona (Nomadic Labs). [Video](https://youtu.be/5GqRG974GtA), [Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2022-11-w5/20221116-zkproof5--miguel-ambrona--slides--aplonk.pdf)
+1. _aPlonK: Aggregated PlonK from Multi-Polynomial Commitment Schemes_. Miguel Ambrona (Nomadic Labs). [Video](https://youtu.be/5GqRG974GtA), [Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2022-11-w5/20221115-zkproof5--miguel-ambrona--slides--aplonk.pdf)
 1. _Groth16 still lives: exploring the tradeoffs of modern ZKProof systems_. François Garillot (Mysten Labs). [Video](https://youtu.be/gQCCdJvszDA)
 1. _Simulation-extractability of zkSNARKs_. Michał Zajac (Nethermind). [Video](https://youtu.be/__lkmzMny-M)
 1. _Counting Vampires: From Univariate Sumcheck to Updatable ZK-SNARK_. Michał Zajac (Nethermind). [Video](https://youtu.be/BJi97wJwo0Y)
@@ -52,13 +52,13 @@ Full video of 2nd day: https://youtu.be/m4BBkwrHb5E
 1. Invited Talk: _Technology and Policy for Privacy of CBDC_. Yoav Soffer (Bank of Israel). [Video](https://youtu.be/PRlp1Qq87JQ)
 1. _UnTraceable Transactions (UTT) with accountable privacy and technological experimentation with the Bank of Israel_. Ittai Abraham (VMware). [Video](https://youtu.be/4b546Mo0IzU)
 1. _UC Security, ZKP and The Law_. Ittai Abraham (VMware). [Video](https://youtu.be/Wdy3sOfv0pU)
-1. _Tutorial Workshop: _Attacks on Zero Knowledge_. Anna Kaplan (Least Authority). [Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2022-11-w5/20221116-zkproof5--anna-kaplan--slides--Attacks-On-ZKPs.pdf)
+1. Tutorial Workshop: _Attacks on Zero Knowledge_. Anna Kaplan (Least Authority). [Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2022-11-w5/20221116-zkproof5--anna-kaplan--slides--Attacks-On-ZKPs.pdf)
 1. _Ligetron: Zero knowledge on Steroids_. Ittai Abraham (VMware). [Video](https://youtu.be/NWzmFIH-3EI)
 1. _Tutorial Workshop: _Designing ZK Application Protocols, Hands-on_. Jonathan Rouach, Alexey Koren and Constance Beguier (QEDIT).
-1. _FROMAGER - A Scalable Toolchain for Complex ZK Proofs About Software_. James Parker (Galois). [Video](https://youtu.be/sz9ppNHbui8), [Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2022-11-w5/20221116-zkproof5--james-parker--slides--fromager.pdf)
+1. _FROMAGER — A Scalable Toolchain for Complex ZK Proofs About Software_. James Parker (Galois). [Video](https://youtu.be/sz9ppNHbui8), [Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2022-11-w5/20221116-zkproof5--james-parker--slides--fromager.pdf)
 1. _Succinct Zero-Knowledge Batch Proofs for Set Accumulators_. Hyunok Oh (Hanyang University and Zkrypto).
 1. _Anemoi and Jive: New Arithmetization-Oriented tools for Plonk-based applications_. Clémence Bouvier (Sorbonne University and Inria) and Danny Willems (Nomadic Labs). [Video](https://youtu.be/3EdbLiClFPI)
-1. 1. Curve Trees: Practical and Transparent Zero-Knowledge Accumulators. Simon Holmgaard Kamp (Aarhus University). [Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2022-11-w5/20221116-zkproof5--simon-holmgaard--slides--curve-trees.pdf)
+1. _Curve Trees: Practical and Transparent Zero-Knowledge Accumulators_. Simon Holmgaard Kamp (Aarhus University). [Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2022-11-w5/20221116-zkproof5--simon-holmgaard--slides--curve-trees.pdf)
 1. _Zero-Knowledge Machine Learning_. Jason Morton (ZKonduit / 0xPARC). [Video](https://youtu.be/r-tlqdO1bRs), [Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2022-11-w5/20221116-zkproof5--jason-morton--slides--zkml.pdf)
 1. _ZK-WASM: A ZK Virtual Machine that Supports WebAssembly_. Xin Gao (DelphinusLab). [Video](https://youtu.be/SzT7zHUuvm4), [Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2022-11-w5/20221116-zkproof5--xin-gao--slides--ZKSNARK-WASM-Emulator.pdf)
 
