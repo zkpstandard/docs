@@ -35,28 +35,28 @@ To suggest updates, please send an email to editors (at) zkproof (dot) org.
 Full video of 1st day: https://youtu.be/TrcT3-VPOz4
 
 1. Keynote: _Linear-Time SNARKs for R1CS and Friends_. Justin Thaler (Georgetown). [Video](https://youtu.be/wnNKbWuY4wE), [Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2022-11-w5/20221115-zkproof5--justin-thaler--slides--Linear-Time-SNARKs-for-R1CS-and-friends.pdf)
-1. _Halo2 and Standardizing Plonk_. Aurelien Nicolas (QEDIT, Scroll). [Video](https://youtu.be/Zc88-7u-wfo)
+1. _Halo2 and Standardizing Plonk_. Aurelien Nicolas (QEDIT, Scroll). [Video](https://youtu.be/Zc88-7u-wfo), [Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2022-11-w5/20221115-zkproof5--aurelien-nicolas--slides--performance-with-Halo2)
 1. _aPlonK: Aggregated PlonK from Multi-Polynomial Commitment Schemes_. Miguel Ambrona (Nomadic Labs). [Video](https://youtu.be/5GqRG974GtA), [Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2022-11-w5/20221115-zkproof5--miguel-ambrona--slides--aplonk.pdf)
-1. _Groth16 still lives: exploring the tradeoffs of modern ZKProof systems_. François Garillot (Mysten Labs). [Video](https://youtu.be/gQCCdJvszDA)
-1. _Simulation-extractability of zkSNARKs_. Michał Zajac (Nethermind). [Video](https://youtu.be/__lkmzMny-M)
-1. _Counting Vampires: From Univariate Sumcheck to Updatable ZK-SNARK_. Michał Zajac (Nethermind). [Video](https://youtu.be/BJi97wJwo0Y)
-1. Invited Talk: _Project Eden and The future of securities settlement in a world of Digital Assets_. Orly Grinfeld (TASECH), Efraim Glatt (TASE). [Video](https://youtu.be/vikaE6o9h7g)
+1. _Groth16 still lives: exploring the tradeoffs of modern ZKProof systems_. François Garillot (Mysten Labs). [Video](https://youtu.be/gQCCdJvszDA), [Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2022-11-w5/20221115-zkproof5--francois-garillot--slides--Groth16-still-lives.pdf)
+1. _Simulation-extractability of zkSNARKs_. Michał Zajac (Nethermind). [Video](https://youtu.be/__lkmzMny-M), [Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2022-11-w5/20221115-zkproof5--michal-zajac--slides--simulation-extractability-of-zkSNARKs.pdf)
+1. _Counting Vampires: From Univariate Sumcheck to Updatable ZK-SNARK_. Michał Zajac (Nethermind). [Video](https://youtu.be/BJi97wJwo0Y), [Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2022-11-w5/20221115-zkproof5--michal-zajac--slides--Counting-Vampires-From-Univariate-Sumcheck-to-Updatable-ZK-SNARK.pdf)
+1. Invited Talk: _Project Eden and The future of securities settlement in a world of Digital Assets_. Orly Grinfeld (TASECH), Efraim Glatt (TASE). [Video](https://youtu.be/vikaE6o9h7g), [Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2022-11-w5/20221115-zkproof5--grinfeld-and-glatt--slides--Project-Eden-and-The-future-of-securities-settlement-in-a-world-of-Digital-Assets.pdf)
 1. Panel Discussion: _ZKProof Community Goals and Deliverables_. Moderator: Eran Tromer (Columbia University).
-Panelists: Luís Brandão (NIST/Strativia), Michele Orrù (UC Berkeley), Ran Canetti (BU). [Video](https://youtu.be/FmaIa9Uwsko)
+Panelists: Luís Brandão (NIST/Strativia), Michele Orrù (UC Berkeley), Ran Canetti (BU). [Video](https://youtu.be/FmaIa9Uwsko), [Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2022-11-w5/20221116-zkproof5--ran-canetti--slides--ZKP-and-the-Law.pdf)
 
 
 #### 2022-Nov-16
 Full video of 2nd day: https://youtu.be/m4BBkwrHb5E
 
-1. Keynote: _ZKP Languages - Where We Are Now_. Kobi Gurkan (Geometry). Kobi Gurkan (Geometry). [Video](https://youtu.be/ru-fCNOWals), [Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2022-11-w5/20221116-zkproof5--kobi-gurkan--slides--where-we-are-now.pdf)
-1. Invited Talk: _Technology and Policy for Privacy of CBDC_. Yoav Soffer (Bank of Israel). [Video](https://youtu.be/PRlp1Qq87JQ)
-1. _UnTraceable Transactions (UTT) with accountable privacy and technological experimentation with the Bank of Israel_. Ittai Abraham (VMware). [Video](https://youtu.be/4b546Mo0IzU)
-1. _UC Security, ZKP and The Law_. Ittai Abraham (VMware). [Video](https://youtu.be/Wdy3sOfv0pU)
+1. Keynote: _ZKP Languages - Where We Are Now_. Kobi Gurkan (Geometry). [Video](https://youtu.be/ru-fCNOWals), [Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2022-11-w5/20221116-zkproof5--kobi-gurkan--slides--where-we-are-now.pdf)
+1. Invited Talk: _Technology and Policy for Privacy of CBDC_. Yoav Soffer (Bank of Israel). [Video](https://youtu.be/PRlp1Qq87JQ), [Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2022-11-w5/20221116-zkproof5--yoav-soffer--slides--privacy-in-CBDC-what-are-the-needs-and-what-can-technology-offer.pdf)
+1. _UnTraceable Transactions (UTT) with accountable privacy and technological experimentation with the Bank of Israel_. Ittai Abraham (VMware). [Video](https://youtu.be/4b546Mo0IzU), [Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2022-11-w5/20221116-zkproof5--ittai-abraham--slides--UnTraceable-Transactions-UTT-with-accountable-privacy.pdf)
+1. _UC Security, ZKP and The Law_. Ran Canetti (BU). [Video](https://youtu.be/Wdy3sOfv0pU)
 1. Tutorial Workshop: _Attacks on Zero Knowledge_. Anna Kaplan (Least Authority). [Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2022-11-w5/20221116-zkproof5--anna-kaplan--slides--Attacks-On-ZKPs.pdf)
-1. _Ligetron: Zero knowledge on Steroids_. Ittai Abraham (VMware). [Video](https://youtu.be/NWzmFIH-3EI)
+1. _Ligetron: Zero knowledge on Steroids_. Carmit Hazay (Bar Ilan). [Video](https://youtu.be/NWzmFIH-3EI), [Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2022-11-w5/20221116-zkproof5--carmit-hazay--slides--Ligetron-zero-knowledge-on-steroids.pdf)
 1. _Tutorial Workshop: _Designing ZK Application Protocols, Hands-on_. Jonathan Rouach, Alexey Koren and Constance Beguier (QEDIT).
 1. _FROMAGER — A Scalable Toolchain for Complex ZK Proofs About Software_. James Parker (Galois). [Video](https://youtu.be/sz9ppNHbui8), [Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2022-11-w5/20221116-zkproof5--james-parker--slides--fromager.pdf)
-1. _Succinct Zero-Knowledge Batch Proofs for Set Accumulators_. Hyunok Oh (Hanyang University and Zkrypto).
+1. _Succinct Zero-Knowledge Batch Proofs for Set Accumulators_. Hyunok Oh (Hanyang University and Zkrypto). [Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2022-11-w5/20221116-zkproof5--hyunok-oh--slides--Succinct-Zero-Knowledge-Batch-Proofs-for-Set-Accumulators.pdf)
 1. _Anemoi and Jive: New Arithmetization-Oriented tools for Plonk-based applications_. Clémence Bouvier (Sorbonne University and Inria) and Danny Willems (Nomadic Labs). [Video](https://youtu.be/3EdbLiClFPI)
 1. _Curve Trees: Practical and Transparent Zero-Knowledge Accumulators_. Simon Holmgaard Kamp (Aarhus University). [Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2022-11-w5/20221116-zkproof5--simon-holmgaard--slides--curve-trees.pdf)
 1. _Zero-Knowledge Machine Learning_. Jason Morton (ZKonduit / 0xPARC). [Video](https://youtu.be/r-tlqdO1bRs), [Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2022-11-w5/20221116-zkproof5--jason-morton--slides--zkml.pdf)
@@ -66,13 +66,13 @@ Full video of 2nd day: https://youtu.be/m4BBkwrHb5E
 #### 2022-Nov-17
 Full video of 3rd day: https://youtu.be/Mbz0v-Kiiq8
 
-1. Keynote: _The Roaring Twenties: Recent Advances in Zero-Knowledge Proofs_. Advances in Zero-Knowledge Proofs. Mary Maller (Ethereum Foundation). [Video](https://youtu.be/uZAOt6_fZ1k)
+1. Keynote: _The Roaring Twenties: Recent Advances in Zero-Knowledge Proofs_. Advances in Zero-Knowledge Proofs. Mary Maller (Ethereum Foundation). [Video](https://youtu.be/uZAOt6_fZ1k), [Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2022-11-w5/20221117-zkproof5--mary-maller--slides--the-roaring-twenties-recent-advances-in-ZKPs.pdf)
 1. Discussion: _Standardizing Sigma Protocols_. Michele Orrù (UC Berkeley). [Video](https://youtu.be/CRLQH9srU0w)
 1. Invited Talk: _From NAND to Verifiable TETRIS_. Omer Shlomovits (Ingonyama). [Video](https://youtu.be/7GhzPZjVhuM), [Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2022-11-w5/20221117-zkproof5--omer-shlomovits--slides--From-NAND-to-Verifiable-TETRIS.pdf)
-1. _Building Functional Commitments: the benefits of implementing and optimizing at the polynomial level_. Andrija Novakovic (Geometry). [Video](https://youtu.be/SzNpPtkaQpY)
-1. _ZK-SecreC: a Domain-Specific Language for Zero-Knowledge Proofs_. Raul-Martin Rebane (Cybernetica AS). [Video](https://youtu.be/xnpqbMBd3ig)
+1. _Building Functional Commitments: the benefits of implementing and optimizing at the polynomial level_. Andrija Novakovic (Geometry). [Video](https://youtu.be/SzNpPtkaQpY), [Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2022-11-w5/20221117-zkproof5--andrija-novakovic--slides--functional-commiments.pdf)
+1. _ZK-SecreC: a Domain-Specific Language for Zero-Knowledge Proofs_. Raul-Martin Rebane (Cybernetica AS). [Video](https://youtu.be/xnpqbMBd3ig), [Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2022-11-w5/20221117-zkproof5--raul-rebane--slides--ZK-SecreC.pdf)
 1. _A Zero-Knowledge circuit for the Lurk language_. Eduardo Morais (Protocol Labs). [Video](https://youtu.be/wKqiIoOeogo), [Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2022-11-w5/20221117-zkproof5--eduardo-morais--slides--a-zk-circuit-for-the-lurk-language.pdf)
-1. _cirgen: MLIR based compiler for zk-STARK circuit generation_. Frank Laub (RISC Zero). [Video](https://youtu.be/TsP14-hI_W0)
+1. _zirgen: MLIR based compiler for zk-STARK circuit generation_. Frank Laub (RISC Zero). [Video](https://youtu.be/TsP14-hI_W0), [Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2022-11-w5/20221117-zkproof5--frank-laub--slides--ZIRGEN-MLIR-based-compiler-for-zk-STARKs.pdf)
 1. Panel: _The Future of the ZK Industry_. Panelists: Justin Thaler (Georgetown), Kobi Gurkan (Geometry), Anna Kaplan (Least Authority). Moderator: Jonathan Rouach (QEDIT). [Video](https://youtu.be/6w6xpNZoiEY)
 
 ## <a id="ZW4"></a>4th ZKProof Workshop [Home Edition] (ZW4)
