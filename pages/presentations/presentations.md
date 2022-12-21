@@ -246,23 +246,20 @@ A [full video of the 3rd day](https://youtu.be/Mbz0v-Kiiq8) (2022-Nov-17) is als
 1. _Public Accountability vs. Secret Laws Can They Coexist_. Shafi Goldwasser. [Video](https://www.youtube.com/watch?v=-O6OwT3fzZc)
 1. _Efficient Zero-Knowledge Protocols The Modular Approach_. Yuval Ishai, Technion. [Video](https://www.youtube.com/watch?v=fqlrJUOT8Po)
 1. _Privacy-enhancing Cryptography at NIST_. Rene Peralta, NIST. [Video](https://www.youtube.com/watch?v=7vRwkDv98KA), [Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2019-04-w2/20190411-rene--Privacy-enhancing-cryptography-at-NIST.pdf)
-1. _ZKProof Proceedings Review & Process_. Daniel Benarroch, QEDIT; Luís Brandão, NIST; Eran Tromer, Columbia & TAU. [Video](MISSING)
+1. _ZKProof Proceedings Review & Process_. Daniel Benarroch, QEDIT; Luís Brandão, NIST; Eran Tromer, Columbia & TAU.
 1. _Zero Knowledge in the Enterprise_. Panelists: Carlos Kuchkovsky (BBVA); Yael Kalai (Microsoft Research); Mike Hearn (R3); Jonathan Levi (HACERA). Moderator: Joanathan Rouach (QEDIT). [Video](https://www.youtube.com/watch?v=monU4C_cixQ)
 1. _Bilinear Pairings based Zero-Knowledge Proofs_. Jens Groth, DFINITY. [Video](https://www.youtube.com/watch?v=X-z3JYlFdzs)
 1. _MPC-in-the-Head based Zero-Knowledge Proofs_. Amit Sahai, UCLA. [Video](https://www.youtube.com/watch?v=-HbqdiCzqE4)
+1. Proposals (1 and 2): _Interoperability of Zero Knowledge Systems_ [Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2019-04-w2/20190412--proposal-1-2--Interoperability-of-Zero-Knowledge-Systems.pdf)
 
 ### 2019-Apr-12
 1. _GKR based Zero-Knowledge Proofs_. Yael Kalai, Microsoft Research. [Video](https://www.youtube.com/watch?v=x8pUxFptfb0)
 1. _IOP based Zero-Knowledge Proofs_. Alessandro Chiesa, UC Berkeley, Zcash, Starkware. [Video](https://www.youtube.com/watch?v=Q1-iAAUFy0Y)
 1. _Discrete Log based Zero-Knowledge Proofs_. Dan Boneh, Stanford. [Video](https://www.youtube.com/watch?v=wB3DlND7KEw)
+1. Proposal (3): _Standardizing Commit-and-Prove ZK_ [Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2019-04-w2/20190412--proposal-3--Standardizing-Commit-and-Prove.pdf)
 1. _From Public-Key Cryptography to PKI Reflections on Standardizing the RSA Algorithm_. Burt Kaliski, Verisign. [Video](https://www.youtube.com/watch?v=sqsDKjPaJVg), [Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2019-04-w2/20190411-burt--From-Public-Key-Cryptography-to-PKI-Reflections-on-Standardizing-the-RSA-Algorithm.pdf)
 1. _Zero Knowledge Ideal Functionality_. Muthu Venkitasubramaniam, Ligero & University of Rochester. [Video](https://www.youtube.com/watch?v=J4NSJDiTeKs)
-
-
-### Proposals
-1 and 2. [Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2019-04-w2/20190412--proposal-1-2--Interoperability-of-Zero-Knowledge-Systems.pdf)
-3. [Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2019-04-w2/20190412--proposal-3--Standardizing-Commit-and-Prove.pdf)
-4. [Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2019-04-w2/20190412--proposal-4--Generation-of-Elliptic-Curves-for-Circuit-Use.pdf)
+1. Proposal (4): _Generation of elliptic curves for circuit use_ [Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2019-04-w2/20190412--proposal-4--Generation-of-Elliptic-Curves-for-Circuit-Use.pdf)
 
 
 ## <a id="ZW1"></a>1st ZKProof Workshop
