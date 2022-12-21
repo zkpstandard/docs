@@ -32,7 +32,6 @@ To suggest updates, please send an email to editors (at) zkproof (dot) org.
 
 
 #### 2022-Nov-15
-Full video of 1st day: https://youtu.be/TrcT3-VPOz4
 
 1. Keynote: _Linear-Time SNARKs for R1CS and Friends_. Justin Thaler (Georgetown). [Video](https://youtu.be/wnNKbWuY4wE), [Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2022-11-w5/20221115-zkproof5--justin-thaler--slides--Linear-Time-SNARKs-for-R1CS-and-friends.pdf)
 1. _Halo2 and Standardizing Plonk_. Aurelien Nicolas (QEDIT, Scroll). [Video](https://youtu.be/Zc88-7u-wfo), [Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2022-11-w5/20221115-zkproof5--aurelien-nicolas--slides--performance-with-Halo2.pdf)
@@ -43,9 +42,10 @@ Full video of 1st day: https://youtu.be/TrcT3-VPOz4
 1. Invited Talk: _Project Eden and The future of securities settlement in a world of Digital Assets_. Orly Grinfeld (TASECH), Efraim Glatt (TASE). [Video](https://youtu.be/vikaE6o9h7g), [Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2022-11-w5/20221115-zkproof5--grinfeld-and-glatt--slides--Project-Eden-and-The-future-of-securities-settlement-in-a-world-of-Digital-Assets.pdf)
 1. Panel Discussion: _ZKProof Community Goals and Deliverables_. Panelists: Luís Brandão (NIST/Strativia), Ran Canetti (BU), Michele Orrù (UC Berkeley). Moderator: Eran Tromer (Columbia University). [Video](https://youtu.be/FmaIa9Uwsko)
 
+A [full video of the 1st day](https://youtu.be/TrcT3-VPOz4) (2022-Nov-15) is also on Youtube.
+
 
 #### 2022-Nov-16
-Full video of 2nd day: https://youtu.be/m4BBkwrHb5E
 
 1. Keynote: _ZKP Languages — Where We Are Now_. Kobi Gurkan (Geometry). [Video](https://youtu.be/ru-fCNOWals), [Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2022-11-w5/20221116-zkproof5--kobi-gurkan--slides--where-we-are-now.pdf)
 1. Invited Talk: _Technology and Policy for Privacy of CBDC_. Yoav Soffer (Bank of Israel). [Video](https://youtu.be/PRlp1Qq87JQ), [Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2022-11-w5/20221116-zkproof5--yoav-soffer--slides--privacy-in-CBDC-what-are-the-needs-and-what-can-technology-offer.pdf)
@@ -62,19 +62,22 @@ Full video of 2nd day: https://youtu.be/m4BBkwrHb5E
 1. _Zero-Knowledge Machine Learning_. Jason Morton (ZKonduit / 0xPARC). [Video](https://youtu.be/r-tlqdO1bRs), [Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2022-11-w5/20221116-zkproof5--jason-morton--slides--zkml.pdf)
 1. _ZK-WASM: A ZK Virtual Machine that Supports WebAssembly_. Xin Gao (DelphinusLab). [Video](https://youtu.be/SzT7zHUuvm4), [Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2022-11-w5/20221116-zkproof5--xin-gao--slides--ZKSNARK-WASM-Emulator.pdf)
 
+A [full video of the 2nd day](https://youtu.be/m4BBkwrHb5E) (2022-Nov-16) is also on Youtube.
 
 
 #### 2022-Nov-17
-Full video of 3rd day: https://youtu.be/Mbz0v-Kiiq8
 
 1. Keynote: _The Roaring Twenties: Recent Advances in Zero-Knowledge Proofs_. Advances in Zero-Knowledge Proofs. Mary Maller (Ethereum Foundation). [Video](https://youtu.be/uZAOt6_fZ1k), [Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2022-11-w5/20221117-zkproof5--mary-maller--slides--the-roaring-twenties-recent-advances-in-ZKPs.pdf)
-1. Discussion: _Standardizing Sigma Protocols_. Michele Orrù (UC Berkeley). [Video](https://youtu.be/CRLQH9srU0w)
+1. Discussion: _Standardizing Sigma Protocols_. Michele Orrù (UC Berkeley). [Video](https://youtu.be/CRLQH9srU0w), [Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2022-11-w5/20221117-zkproof5--michele-orru--slides--standardizing-sigma-protocols.pdf)
 1. Invited Talk: _From NAND to Verifiable TETRIS_. Omer Shlomovits (Ingonyama). [Video](https://youtu.be/7GhzPZjVhuM), [Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2022-11-w5/20221117-zkproof5--omer-shlomovits--slides--From-NAND-to-Verifiable-TETRIS.pdf)
 1. _Building Functional Commitments: the benefits of implementing and optimizing at the polynomial level_. Andrija Novakovic (Geometry). [Video](https://youtu.be/SzNpPtkaQpY), [Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2022-11-w5/20221117-zkproof5--andrija-novakovic--slides--functional-commiments.pdf)
 1. _ZK-SecreC: a Domain-Specific Language for Zero-Knowledge Proofs_. Raul-Martin Rebane (Cybernetica AS). [Video](https://youtu.be/xnpqbMBd3ig), [Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2022-11-w5/20221117-zkproof5--raul-rebane--slides--ZK-SecreC.pdf)
 1. _A Zero-Knowledge circuit for the Lurk language_. Eduardo Morais (Protocol Labs). [Video](https://youtu.be/wKqiIoOeogo), [Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2022-11-w5/20221117-zkproof5--eduardo-morais--slides--a-zk-circuit-for-the-lurk-language.pdf)
 1. _zirgen: MLIR based compiler for zk-STARK circuit generation_. Frank Laub (RISC Zero). [Video](https://youtu.be/TsP14-hI_W0), [Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2022-11-w5/20221117-zkproof5--frank-laub--slides--ZIRGEN-MLIR-based-compiler-for-zk-STARKs.pdf)
 1. Panel: _The Future of the ZK Industry_. Panelists: Kobi Gurkan (Geometry), Anna Kaplan (Least Authority), Justin Thaler (Georgetown). Moderator: Jonathan Rouach (QEDIT). [Video](https://youtu.be/6w6xpNZoiEY)
+
+A [full video of the 3rd day](https://youtu.be/Mbz0v-Kiiq8) (2022-Nov-17) is also on Youtube.
+
 
 ## <a id="ZW4"></a>4th ZKProof Workshop [Home Edition] (ZW4)
 2021-Apr-19--29, Virtual
