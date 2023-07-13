@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ZKProof Community
-nav_order: 5
+nav_order: 10
 has_children: true
 permalink: /community
 ---

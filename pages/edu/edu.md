@@ -3,7 +3,7 @@ layout: default
 title: Educational Resources on Zero-Knowledge Proofs
 nav_order: 9
 has_children: true
-permalink: /about
+permalink: /edu
 ---
 
 ## Educational Resources about Zero-Knowledge Proofs

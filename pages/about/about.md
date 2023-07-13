@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About ZKProof (Context and Structure)
+title: About ZKProof
 nav_order: 2
 has_children: true
 permalink: /about
