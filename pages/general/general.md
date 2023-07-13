@@ -6,7 +6,7 @@ has_children: true
 permalink: /general
 ---
 
-# General Documents
+# Charter, IP Policy, and Code of Conduct
 {: .no_toc }
 
 ## Table of contents
