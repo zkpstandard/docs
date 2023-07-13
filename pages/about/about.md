@@ -6,6 +6,8 @@ has_children: true
 permalink: /about
 ---
 
+# About ZKProof
+
 ## ZKProof Context
 
 ZKProof is an open-industry academic initiative that seeks to mainstream zero-knowledge proof (ZKP) cryptography through an inclusive, community-driven standardization process that focuses on interoperability and security, toward trusted specifications for the implementation of ZKPs. Annual ZKProof Workshops, attended by world-renowned cryptographers, practitioners and industry leaders, promote dissussion of proposals, present developments in the state of the art, review cutting-edge projects, and contribute new reference material for the community.

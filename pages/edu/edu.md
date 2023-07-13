@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Educational Resources on Zero-Knowledge Proofs
+title: Educational Resources
 nav_order: 9
 has_children: true
 permalink: /edu
 ---
 
-## Educational Resources about Zero-Knowledge Proofs
+# Educational Resources about Zero-Knowledge Proofs
 {: .no_toc .text-delta }
 
 1. TOC

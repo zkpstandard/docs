@@ -6,7 +6,7 @@ has_children: false
 permalink: /apps
 ---
 
-# ZKProof Wiki of Concrete Applications
+# ZKProof Wiki of Concrete ZKP Applications
 
 This webpage (ongoing work) intends to list many references about possible applications of ZKPs.
 

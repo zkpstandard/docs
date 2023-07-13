@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Charter, Policy and Code
+title: Charter, IP Policy and Code
 nav_order: 3
 has_children: true
 permalink: /general
