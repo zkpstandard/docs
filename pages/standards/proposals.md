@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Accepted Papers
-parent: Community Standards
-nav_order: 1
+title: Past Proposals
+parent: ZKProof Standards
+nav_order: 3
 permalink: /standards/proposals
 ---
 # Accepted Papers
@@ -15,6 +15,12 @@ permalink: /standards/proposals
 {:toc}
 
 ---
+
+## Proposals submitted 2023 onward
+
+To be added: notes about proposals of working groups created since the inception (in 2023) of the ZKProof Standards Committee.
+
+## Proposals submitted between 2019 and 2021
 
 In preparation for every workshop, the community submits papers on the security, implementation and applications of zero-knowledge proofs. If accepted, the papers are to be discussed at the upcoming workshop with the goal to convey and facilitate progress in zero-knowledge proof technology, by sharing knowledge among participants and by creating public living documents that convey the state of the art. Submissions can be along the following tracks:
 

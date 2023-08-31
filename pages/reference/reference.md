@@ -9,12 +9,13 @@ permalink: /reference
 # Community Reference
 {: .no_toc }
 
+Latest PDF file compilation: [https://docs.zkproof.org/reference.pdf](https://docs.zkproof.org/reference.pdf)
+
 ZKProof promotes best practices for proper development and deployment of zero-knowledge proof (ZKP) systems, aligned with security and interoperability. The ZKProof Community Reference (ZkpComRef) intends to comprehend terminology, examples, explanations and recommendations, driven by research and experience. This serves as a reference from and for the community.
 
+The ZkpComRef is a live document. Check below for info about its version history and how to contribute. 
 
-The ZkpComRef is a live document. Check below for info about its version history and how to contribute. The latest PDF file compilation is available at https://docs.zkproof.org/reference.pdf
-
-We are grateful and thank the many contributions!
+We are grateful and we thank the many contributions!
 
 
 ## Table of contents

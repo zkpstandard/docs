@@ -14,13 +14,13 @@ Welcome to docs.zkproof.org --- the official page of ZKProof Reference Material.
 
 **Index of reference material:**
 - [About ZKProof (Context and Structure)](https://docs.zkproof.org/about)
-- [ZKProof Community Reference (ZkpComRef)](https://docs.zkproof.org/reference)
 - [ZKProof Charter, IP Policy and Code of Conduct](https://docs.zkproof.org/general)
+- [ZKProof Community Reference (ZkpComRef)](https://docs.zkproof.org/reference)
 - [ZKProof Presentations (recordings and slides)](https://docs.zkproof.org/presentations)
 - [List of Concrete Schemes](https://docs.zkproof.org/schemes)
 - [List of Applications](https://docs.zkproof.org/apps)
 - [List of Educational Resources](https://docs.zkproof.org/edu)
-- [Working Groups](https://docs.zkproof.org/wg)
+- [ZKProof Standards and Working Groups](https://docs.zkproof.org/standards)
 
 Apart from docs.zkproof.org, there is additional material hosted by zkproof.org, such as:
 - [ZKProof Events](https://zkproof.org/events)

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Working Groups
-parent: Community Standards
+parent: ZKProof Standards
 nav_order: 2
 permalink: /standards/wg
 ---
@@ -16,13 +16,33 @@ permalink: /standards/wg
 
 ---
 
-This page collects links to all resources about working groups (WG) in the ZKProof Standardization effort, as well as proposals and systematizations of knowledge submitted to ZKProof workshops.
+This page collects links to resources about past working groups that submitted  Standardization effort, as well as proposals and systematizations of knowledge submitted to ZKProof workshops.
 
-For comments and updates, please email `editors at zkproof dot org`.
+For comments and updates, please email `standards at zkproof dot org`.
 
-**About Proposals vs. WGs vs. Standards:** Throughout various ZKProof workshops, "proposals" were submitted for discussion by the community. Some of these led to the creation of "working groups" (WG) intended to subsequently develop/refine/improve the proposals, possibly toward future standards. Information about other proposals can be found in the _Community Standards_ section under ["Accepted Papers"](https://docs.zkproof.org/standards/proposals).
+## Working groups 2023 onward
 
-## Active WGs
+### Plonkish Constraint System
+Details to be added soon.
+
+### Fiat-Shamir Compiler
+Details to be added soon.
+
+### Sigma Protocols
+Details to be added soon.
+
+**Other working groups:**
+Read the [parent page](https://docs.zkproof.org/standards) for guidelines on how to propose a new working group.
+
+
+## Working groups prior to 2022
+
+Between 2019 and 2021, ZKProof motivated the submission of proposals for specifications, and the creation of various working groups.
+
+Throughout various ZKProof workshops, "proposals" were submitted for discussion by the community. Some of these led to the creation of "working groups" (WG) intended to subsequently develop/refine/improve the proposals, possibly toward future standards. While they have not been subject to any formal process for subsequent standardization, they have produced various documents (see below) that may serve as useful reference material.
+
+Note: there is also another page with a [list of the initial proposals](https://docs.zkproof.org/standards/proposals) submitted to ZKProof workshops.
+
 
 | \#| WG Name (Telegram Group) | Goal | Repo | Documents |
 | - | -------- | -------- | ----- | ----|
@@ -41,6 +61,6 @@ For comments and updates, please email `editors at zkproof dot org`.
 | 2 | Rinocchio: SNARKs for Ring Arithmetic ([TG](https://t.me/joinchat/3HS-fhBs5II5NDY0)) | Standardize a generic method for using ZK over rings, yielding efficiency improvements for some applications | --- | [W4](https://docs.zkproof.org/pages/standards/accepted-workshop4/proposal-rinocchio.pdf), [Notes](https://hackmd.io/@workshop4/rinocchio) |
 | 3 | Leo: A Programming Language for Formally Verified ZK Applications ([TG](https://t.me/leolanguage)) | Standardize the fundamental components of a ZK language | --- | [W4](https://docs.zkproof.org/pages/standards/accepted-workshop4/proposal-leo.pdf), [Notes](https://hackmd.io/@workshop4/leo) |
 
-
-
 **Legend:** **W2** = paper @ 2th workshop; **W3** = paper @ 3rd workshop; **W4** = paper @ 4th workshop.
+
+
