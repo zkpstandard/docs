@@ -5,7 +5,7 @@ parent: ZKProof Standards
 nav_order: 3
 permalink: /standards/proposals
 ---
-# Accepted Papers
+# Proposals for ZKProof specifications
 {: .no_toc }
 
 ## Table of contents

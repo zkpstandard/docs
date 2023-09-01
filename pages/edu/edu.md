@@ -31,9 +31,9 @@ The page lists various educational resources, mostly from external sources. Plea
 - Introductory online course on ZKPs: [https://zk-learning.org](https://zk-learning.org)
 
 ### Textbooks on ZKProof (free)
-- 2022: Proofs, Arguments and Zero-knowledge (Justin Thaler): https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf
-- 2022: The MoonMath Manual to zk-SNARKs: https://leastauthority.com/community-matters/moonmath-manual
-- Halo2: https://zcash.github.io/halo2/concepts/arithmetization.html
+- 2022: Proofs, Arguments and Zero-knowledge (Justin Thaler): [https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf)
+- 2022: The MoonMath Manual to zk-SNARKs: [https://leastauthority.com/community-matters/moonmath-manual](https://leastauthority.com/community-matters/moonmath-manual)
+- Halo2: [https://zcash.github.io/halo2/concepts/arithmetization.html](https://zcash.github.io/halo2/concepts/arithmetization.html)
 
 ### Media: presentations and tutorials
 - ZKproof presentations (slides and other links from all ZKProof events): [https://docs.zkproof.org/presentations](https://docs.zkproof.org/presentations)
