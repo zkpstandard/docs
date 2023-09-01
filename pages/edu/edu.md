@@ -68,3 +68,4 @@ Online course:
 ### Disclaimers 
 - This webpage should currently be considered as a working draft. For suggestions of additional educational resources to add to this page, please send an email to editors (at) zkproof (dot) org. All links should lead to publicly accessible content.
 - The page provides various links to external sites, hoping that their information may be of interest to users interested in zero-knowledge proofs. However, ZKProof does not necessarily endorse the content, opinions, or any product advertised or available therein.
+- This webpage will not not keep track of who provided which suggestions. However, each accessible link may include credits to the developers of the corresponding educational material.
