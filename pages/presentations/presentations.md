@@ -15,14 +15,26 @@ To suggest updates, please send an email to editors (at) zkproof (dot) org.
 
 ## Index of workshops
 
-- [**ZKProof5**](#ZW5): 5th ZKProof Workshop. **2022**-Nov-15--17. Tel Aviv, Israel
-- [**ZKProof4**](#ZW4): 4th ZKProof Workshop (Home Edition). **2021**-Apr-19--29. Virtual
+- [**ZW5.5**](#ZW5.5): ZKProof 5.5 (A day in Barcelona). **2023**-Aug-02. Barcelona, Spain
+- [**ZW5**](#ZW5): 5th ZKProof Workshop. **2022**-Nov-15--17. Tel Aviv, Israel
+- [**ZW4**](#ZW4): 4th ZKProof Workshop (Home Edition). **2021**-Apr-19--29. Virtual
 - [**ACAS'20**](#ACAS20): Workshop on Advanced Cryptography Applications and Standardization. **2020**-Aug-15. Virtual
-- [**ZKProof3**](#ZW3): 3rd ZKProof Workshop (Home Edition). **2020**-Apr-20--May-21. Virtual
+- [**ZW3**](#ZW3): 3rd ZKProof Workshop (Home Edition). **2020**-Apr-20--May-21. Virtual
 - [**ZCE'19**](#ZCE19): ZKProof Community Event. **2019**-Oct-28--29. Amsterdam, Netherlands
 - [**ACS'19**](#ACS19): Workshop on Advanced Cryptography Standardization. **2019**-Aug-18. Santa Barbara, USA
-- [**ZKProof2**](#ZW2): 2nd ZKProof Workshop. **2019**-Apr-10--12. Berkeley, USA
-- [**ZKProof1**](#ZW1): 1st ZKProof Workshop. **2018**-May-10--11. Boston, USA
+- [**ZW2**](#ZW2): 2nd ZKProof Workshop. **2019**-Apr-10--12. Berkeley, USA
+- [**ZW1**](#ZW1): 1st ZKProof Workshop. **2018**-May-10--11. Boston, USA
+
+## <a id="ZW5.5"></a>ZKProof 5.5 (ZW5.5)
+2023-Aug-92 @ Barcelona, Spain
+
+**Useful links:** [Workshop website](https://zkproof.org/events/zkproof-5-5-barcelona)
+
+1. _Plonk Standardisation Workshop_. Mary Maller (Ethereum Foundation and PQShield)
+1. _Recursive Proof Composition_. Ying Tong Lai (Geometry)
+1. _Scaling Trustless DNN Inference with zkml and its Applications_. Daniel Kang (University of Illinois Urbana-Champaign)
+1. _SIEVE Circuit IR Specification_. James Parker (Galois) and Kimberlee Model (Stealth Software Inc)
+1. _VOLE-in-the-Head and the FAEST Post-Quantum Signature Scheme_. Peter Scholl (Aarhus University)
 
 
 ## <a id="ZW5"></a>5th ZKProof Workshop (ZW5)
@@ -262,7 +274,7 @@ A [full video of the 3rd day](https://youtu.be/Mbz0v-Kiiq8) (2022-Nov-17) is als
 1. Proposal (4): _Generation of elliptic curves for circuit use_ [Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2019-04-w2/20190412--proposal-4--Generation-of-Elliptic-Curves-for-Circuit-Use.pdf)
 
 
-## <a id="ZW1"></a>1st ZKProof Workshop
+## <a id="ZW1"></a>1st ZKProof Workshop (ZW1)
 2018-May-10-11 @ Boston, USA
 
 **Useful links:** [Workshop website](https://zkpstandard.github.io/zkproof.github.io/first_workshop.html); [Youtube playlist](https://www.youtube.com/playlist?list=PLOEty2U8Y69XadRILKwdG5eADUdAJ96ou)
