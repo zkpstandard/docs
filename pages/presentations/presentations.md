@@ -30,11 +30,11 @@ To suggest updates, please send an email to editors (at) zkproof (dot) org.
 
 **Useful links:** [Workshop website](https://zkproof.org/events/zkproof-5-5-barcelona)
 
-1. _Plonk Standardisation Workshop_. Mary Maller (Ethereum Foundation and PQShield)
+1. _Plonk Standardisation Workshop_. Mary Maller (Ethereum Foundation and PQShield). \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2023-08-w55/20230802-zkproof5-5--mary-maller--slides--plonk-standardization.pdf)\]
 1. _Recursive Proof Composition_. Ying Tong Lai (Geometry)
 1. _Scaling Trustless DNN Inference with zkml and its Applications_. Daniel Kang (University of Illinois Urbana-Champaign)
-1. _SIEVE Circuit IR Specification_. James Parker (Galois) and Kimberlee Model (Stealth Software Inc)
-1. _VOLE-in-the-Head and the FAEST Post-Quantum Signature Scheme_. Peter Scholl (Aarhus University)
+1. _SIEVE Circuit IR Specification_. James Parker (Galois) and Kimberlee Model (Stealth Software Inc). \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2023-08-w55/20230802-zkproof5-5--james-parker--kimberly-model--slides--sieve-circuit-IR.pdf)\]
+1. _VOLE-in-the-Head and the FAEST Post-Quantum Signature Scheme_. Peter Scholl (Aarhus University). \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2023-08-w55/20230802-zkproof5-5--peter-scholl--slides--VOLE-in-the-Head-and-FAEST-PQ-Sig.pdf)\]
 
 
 ## <a id="ZW5"></a>5th ZKProof Workshop (ZW5)
