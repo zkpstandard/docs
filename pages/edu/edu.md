@@ -15,7 +15,7 @@ permalink: /edu
 
 ---
 
-The page lists various educational resources, mostly from external sources. Please read the disclaimer notes on the bottom.
+The page lists various educational resources, mostly from external sources. (Please read the disclaimer notes at the bottom.)
 
 
 ### The ZKProof Community Reference (ZkpComRef v0.3)
@@ -28,7 +28,9 @@ The page lists various educational resources, mostly from external sources. Plea
 - List of various ZKProof schemes: [https://docs.zkproof.org/schemes](https://docs.zkproof.org/schemes)
 
 ### Online Courses
-- Introductory online course on ZKPs: [https://zk-learning.org](https://zk-learning.org)
+- Zero Knowledge Proofs (MOOC \[massive open online course\]): [https://zk-learning.org](https://zk-learning.org)
+- Zero Knowledge Proofs (Berkeley CS294/194-238):
+[https://rdi.berkeley.edu/course/zkp/s23](https://rdi.berkeley.edu/course/zkp/s23)
 
 ### Textbooks on ZKProof (free)
 - 2022: Proofs, Arguments and Zero-knowledge (Justin Thaler): [https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf)
@@ -40,9 +42,8 @@ The page lists various educational resources, mostly from external sources. Plea
 - ZKProof presentations Youtube channel: [https://www.youtube.com/channel/UC79GUI9SBNnfmJOQyHDrrPQ](https://www.youtube.com/channel/UC79GUI9SBNnfmJOQyHDrrPQ)
 - zkSummit presentations (Youtube):
 [https://youtu.be/playlist?list=PLj80z0cJm8QFnY6VLVa84nr-21DNvjWH7](https://youtu.be/playlist?list=PLj80z0cJm8QFnY6VLVa84nr-21DNvjWH7)
+- ZK Whiteboard sessions (educational series on all things zero knowledge): [https://zkhack.dev/whiteboard](https://zkhack.dev/whiteboard)
 - Podcast: interviews to ZK people: [https://zeroknowledge.fm](https://zeroknowledge.fm)
-Online course:
-[https://rdi.berkeley.edu/course/zkp/s23](https://rdi.berkeley.edu/course/zkp/s23)
 
 ### Blogposts
 - 2019: Understanding Plonk: [https://vitalik.ca/general/2019/09/22/plonk.html](https://vitalik.ca/general/2019/09/22/plonk.html)
@@ -51,13 +52,17 @@ Online course:
 - 2022: Groth-Sahai proofs are not that scary:  [https://crypto.ethereum.org/blog/groth-sahai-blogpost](https://crypto.ethereum.org/blog/groth-sahai-blogpost)
 - 2022: Hyperplonk, a zk-proof system for ZKEVMs:  [https://www.espressosys.com/blog/hyperplonk-a-zk-proof-system-for-zkevms](https://www.espressosys.com/blog/hyperplonk-a-zk-proof-system-for-zkevms)
 
-
 ### Wiki-style resources
-- [https://www.zkdocs.com](https://www.zkdocs.com)
+- ZKDocs: [https://www.zkdocs.com](https://www.zkdocs.com)
 - [https://www.ingonyama.com/ingopedia/zkp](https://www.ingonyama.com/ingopedia/zkp)
 
-### Programming education
-- zkHack and whiteboard sessions: zk-puzzles for hands on experience: [https://zkhack.dev/zkhackIII](https://zkhack.dev/zkhackIII)
+### Puzzles, exercises, and programming for hands-on experience
+- ZK Hack Puzzles: [https://zkhack.dev/puzzles](https://zkhack.dev/puzzles)
+
+### Series of events
+- ZKProof: [https://zkproof.org/events](https://zkproof.org/events)
+- ZK Hack: [https://zkhack.dev](https://zkhack.dev)
+- ZK Summit [https://www.zksummit.com](https://www.zksummit.com)
 
 ### Discussion forums
 - ZKProof forum: [https://community.zkproof.org](https://community.zkproof.org)
