@@ -46,11 +46,13 @@ The page lists various educational resources, mostly from external sources. (Ple
 - Podcast: interviews to ZK people: [https://zeroknowledge.fm](https://zeroknowledge.fm)
 
 ### Blogposts
-- 2019: Understanding Plonk: [https://vitalik.ca/general/2019/09/22/plonk.html](https://vitalik.ca/general/2019/09/22/plonk.html)
-- 2021: Inner product arguments: [https://dankradfeist.de/ethereum/2021/07/27/inner-product-arguments.html](https://dankradfeist.de/ethereum/2021/07/27/inner-product-arguments.html)
-- 2021: Zero-knowledge proofs: STARKs vs SNARKs:  [https://consensys.net/blog/blockchain-explained/zero-knowledge-proofs-starks-vs-snarks](https://consensys.net/blog/blockchain-explained/zero-knowledge-proofs-starks-vs-snarks)
-- 2022: Groth-Sahai proofs are not that scary:  [https://crypto.ethereum.org/blog/groth-sahai-blogpost](https://crypto.ethereum.org/blog/groth-sahai-blogpost)
-- 2022: Hyperplonk, a zk-proof system for ZKEVMs:  [https://www.espressosys.com/blog/hyperplonk-a-zk-proof-system-for-zkevms](https://www.espressosys.com/blog/hyperplonk-a-zk-proof-system-for-zkevms)
+- 2019-Sep-22: Understanding Plonk: [https://vitalik.ca/general/2019/09/22/plonk.html](https://vitalik.ca/general/2019/09/22/plonk.html)
+- 2020--2023: ZKProof Blog Series "The Art of Zero Knowledge": [https://zkproof.org/blog](https://zkproof.org/blog)
+- 2021-07-27: Inner product arguments: [https://dankradfeist.de/ethereum/2021/07/27/inner-product-arguments.html](https://dankradfeist.de/ethereum/2021/07/27/inner-product-arguments.html)
+- 2021-May-18: Zero-knowledge proofs: STARKs vs SNARKs:  [https://consensys.net/blog/blockchain-explained/zero-knowledge-proofs-starks-vs-snarks](https://consensys.net/blog/blockchain-explained/zero-knowledge-proofs-starks-vs-snarks)
+- 2022-Jun-06: Groth-Sahai proofs are not that scary:  [https://crypto.ethereum.org/blog/groth-sahai-blogpost](https://crypto.ethereum.org/blog/groth-sahai-blogpost)
+- 2022-Oct-23: Hyperplonk, a zk-proof system for ZKEVMs:  [https://www.espressosys.com/blog/hyperplonk-a-zk-proof-system-for-zkevms](https://www.espressosys.com/blog/hyperplonk-a-zk-proof-system-for-zkevms)
+- 2023-Aug-24--Oct-20 "Maths & Logic for Zero-knowledge Proofs (simplified)" (6 articles):  [https://medium.com/@biswashreedey/maths-logic-for-zero-knowledge-proofs-simplified-part-1-1c12373afa5d](https://medium.com/@biswashreedey/maths-logic-for-zero-knowledge-proofs-simplified-part-1-1c12373afa5d)
 
 ### Wiki-style resources
 - ZKDocs: [https://www.zkdocs.com](https://www.zkdocs.com)

@@ -24,6 +24,7 @@ Welcome to docs.zkproof.org --- the official page of ZKProof Reference Material.
 
 Apart from docs.zkproof.org, there is additional material hosted by zkproof.org, such as:
 - [ZKProof Events](https://zkproof.org/events)
+- [ZKProof Blog](https://zkproof.org/blog)
 - [Community Forum](https://community.zkproof.org)
 - [GitHub repository](https://github.com/zkpstandard)
 - [Old archived webpages](https://zkpstandard.github.io/zkproof.github.io/)
