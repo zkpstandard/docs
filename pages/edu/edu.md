@@ -31,11 +31,12 @@ The page lists various educational resources, mostly from external sources. (Ple
 - Zero Knowledge Proofs (MOOC \[massive open online course\]): [https://zk-learning.org](https://zk-learning.org)
 - Zero Knowledge Proofs (Berkeley CS294/194-238):
 [https://rdi.berkeley.edu/course/zkp/s23](https://rdi.berkeley.edu/course/zkp/s23)
+- 0xPARC's ZK Learning Resources: [learn.0xparc.org](http://learn.0xparc.org/)
 
 ### Textbooks on ZKProof (free)
 - 2022: Proofs, Arguments and Zero-knowledge (Justin Thaler): [https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf)
 - 2022: The MoonMath Manual to zk-SNARKs: [https://leastauthority.com/community-matters/moonmath-manual](https://leastauthority.com/community-matters/moonmath-manual)
-- Halo2: [https://zcash.github.io/halo2/concepts/arithmetization.html](https://zcash.github.io/halo2/concepts/arithmetization.html)
+- Halo2 book "Concepts" section: [https://zcash.github.io/halo2/concepts/arithmetization.html](https://zcash.github.io/halo2/concepts/arithmetization.html)
 
 ### Media: presentations and tutorials
 - ZKproof presentations (slides and other links from all ZKProof events): [https://docs.zkproof.org/presentations](https://docs.zkproof.org/presentations)
@@ -56,18 +57,26 @@ The page lists various educational resources, mostly from external sources. (Ple
 
 ### Wiki-style resources
 - ZKDocs: [https://www.zkdocs.com](https://www.zkdocs.com)
-- [https://www.ingonyama.com/ingopedia/zkp](https://www.ingonyama.com/ingopedia/zkp)
+- Ingopedia: [https://www.ingonyama.com/ingopedia/zkp](https://www.ingonyama.com/ingopedia/zkp)
 
 ### Puzzles, exercises, and programming for hands-on experience
 - ZK Hack Puzzles: [https://zkhack.dev/puzzles](https://zkhack.dev/puzzles)
+- [ZPrize](https://www.zprize.io/): an annual competition focused on promoting the use and development of zero-knowledge cryptography. 
+
+### Developer tools
+- [zka.lc](https://zka.lc/): a web tool to calculate how much time cryptographic operations take on a real computer.
+- [zk-bench](https://zkbench.dev/): benchmarks for popular zk frameworks
+- [zkREPL](https://zkrepl.dev/): a browser interface for the Circom compiler
+- [halo2REPL](https://www.halo2repl.dev/): a browser interface for writing halo2 circuits in Javascript.
 
 ### Series of events
 - ZKProof: [https://zkproof.org/events](https://zkproof.org/events)
 - ZK Hack: [https://zkhack.dev](https://zkhack.dev)
-- ZK Summit [https://www.zksummit.com](https://www.zksummit.com)
+- ZK Summit: [https://www.zksummit.com](https://www.zksummit.com)
 
 ### Discussion forums
 - ZKProof forum: [https://community.zkproof.org](https://community.zkproof.org)
+- [zkResearch](https://zkresear.ch/): a moderated platform for members of the applied ZK community to discuss constructions and ideas.
 - Forum for cryptography Q&A: [https://crypto.stackexchange.com](https://crypto.stackexchange.com)
 - Forum for cryptography questions: [https://askcryp.to](https://askcryp.to)
 
