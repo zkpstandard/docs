@@ -67,7 +67,7 @@ The action reflected for the 2nd half of 2023 onward is focused on the creation 
 
 ## How to propose a new Working Group (WG)
 
-Each new working group (for developing a specification) should be formally proposed to the ZKProof Standards Committee, by means of an abstract that identifies various key elements (see below). Upon internal analysis, the Standards Committee will seek initial advisory opinion from the ZKProof Steering Committee and the ZKProof Editors Team. This may result in direct acceptance, or in recommendations for improvement/adjustment of the proposal and re-submission. If/when a proposal is accepted, the plan of the WG will be [published](http://docs.zkproof.org/proposals), and the team will be invited to present their yearly progress at ZKProof events.
+Each new working group (for developing a specification) should be formally proposed to the ZKProof Standards Committee, by means of an abstract that identifies various key elements (see below). Upon internal analysis, the Standards Committee will seek initial advisory opinion from the ZKProof Steering Committee and the ZKProof Editors Team. This may result in direct acceptance, or in recommendations for improvement/adjustment of the proposal and re-submission. If/when a proposal is accepted, the plan of the WG will be [published](http://docs.zkproof.org/standards/proposals), and the team will be invited to present their yearly progress at ZKProof events.
 
 At a minimum, the proposal of a working group for a specification must include:
 1. Title of the working group (WG)
@@ -80,4 +80,4 @@ At a minimum, the proposal of a working group for a specification must include:
 
 Proposals are welcome, including for working groups on topics not listed above, e.g., alternative constraint systems (such as R1CS, AIR, or CCS). <small>**Legend:** AIR = **A**rithmetized **I**ntermediate **R**epresentation. CCS = **C**ustomizable **C**onstraint **S**ystem.  R1CS = **R**ank-**1** **C**onstraint **S**ystem.</small>
 
-To propose a new WG, please email `standards at zkproof dot org`, cc'ing all members of the proposed team.
+To propose a new WG, please email `standards (at) zkproof (dot) org`, cc'ing all members of the proposed team.
