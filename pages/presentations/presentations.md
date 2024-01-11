@@ -15,26 +15,47 @@ To suggest updates, please send an email to editors (at) zkproof (dot) org.
 
 ## Index of workshops
 
-- [**ZW5.5**](#ZW5.5): ZKProof 5.5 (A day in Barcelona). **2023**-Aug-02. Barcelona, Spain
-- [**ZW5**](#ZW5): 5th ZKProof Workshop. **2022**-Nov-15--17. Tel Aviv, Israel
-- [**ZW4**](#ZW4): 4th ZKProof Workshop (Home Edition). **2021**-Apr-19--29. Virtual
-- [**ACAS'20**](#ACAS20): Workshop on Advanced Cryptography Applications and Standardization. **2020**-Aug-15. Virtual
-- [**ZW3**](#ZW3): 3rd ZKProof Workshop (Home Edition). **2020**-Apr-20--May-21. Virtual
-- [**ZCE'19**](#ZCE19): ZKProof Community Event. **2019**-Oct-28--29. Amsterdam, Netherlands
-- [**ACS'19**](#ACS19): Workshop on Advanced Cryptography Standardization. **2019**-Aug-18. Santa Barbara, USA
-- [**ZW2**](#ZW2): 2nd ZKProof Workshop. **2019**-Apr-10--12. Berkeley, USA
-- [**ZW1**](#ZW1): 1st ZKProof Workshop. **2018**-May-10--11. Boston, USA
+- [**ZDC'03**](#ZW5.5)**:** ZKProof Policy @ DC. **2023**-Nov-30. Washington DC, USA
+- [**ZW5.5**](#ZW5.5)**:** ZKProof 5.5 (A day in Barcelona). **2023**-Aug-02. Barcelona, Spain
+- [**ZW5**](#ZW5)**:** 5th ZKProof Workshop. **2022**-Nov-15--17. Tel Aviv, Israel
+- [**ZW4**](#ZW4)**:** 4th ZKProof Workshop (Home Edition). **2021**-Apr-19--29. Virtual
+- [**ACAS'20**](#ACAS20)**:** Workshop on Advanced Cryptography Applications and Standardization. **2020**-Aug-15. Virtual
+- [**ZW3**](#ZW3)**:** 3rd ZKProof Workshop (Home Edition). **2020**-Apr-20--May-21. Virtual
+- [**ZCE'19**](#ZCE19)**:** ZKProof Community Event. **2019**-Oct-28--29. Amsterdam, Netherlands
+- [**ACS'19**](#ACS19)**:** Workshop on Advanced Cryptography Standardization. **2019**-Aug-18. Santa Barbara, USA
+- [**ZW2**](#ZW2)**:** 2nd ZKProof Workshop. **2019**-Apr-10--12. Berkeley, USA
+- [**ZW1**](#ZW1)**:** 1st ZKProof Workshop. **2018**-May-10--11. Boston, USA
+
+Quick link: Most videos of talks can also be found via the Youtube index of [ZKProof Playlists](https://www.youtube.com/@zkproofstandards1776/playlists)
+
+
+## <a id="ZDC03"></a>ZKProof Policy @ DC (ZDC'03)
+2023-Nov-30 @ Washington DC, USA
+
+**Useful links:** [Workshop website](https://zkproof.org/events/zkproof-policy-at-washington-dc), [Youtube playlist](https://www.youtube.com/playlist?list=PLOEty2U8Y69XM2m4ECa6IYyfPXvkSBbSp)
+
+1. _IP and Standardization for Emerging FinTech_. Ryan Richardson and Joe-Mutschelknaus (Sterne Kessler). \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2023-11-dc/20231130-zkproof-dc--Ryan-Richardson--Joe-Mutschelknaus--IP-and-Standardization-for-Emerging-FinTech.pdf)\] \[[Video](https://youtu.be/K1fA3Yqe85o&t=9m12s)\]
+2. _Revisiting accepted wisdom in SNARK design_. Justin Thaler (a16z / Georgetown University). \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2023-11-dc/20231130-zkproof-dc--Justin-Thaler--Revisiting-accepted-wisdom-in-SNARK-design.pdf)\] \[[Video](https://youtu.be/K1fA3Yqe85o&t=44m10s)\]
+3. _Zero-Knowledge Financial Regulation Compliance_. Eran Tromer (Boston University / Sealance). \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2023-11-dc/20231130-zkproof-dc--Eran-Tromer--Zero-Knowledge-Financial-Regulation-Compliance.pdf)\] \[[Video](https://youtu.be/K1fA3Yqe85o&t=1h45m06s)\]
+4. _Ligetron_ WASM as an Intermediate Representation and easy tooling for zkSNARKs_. Muthu Venkitasubramaniam (Georgetown University / Ligero Inc). \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2023-11-dc/20231130-zkproof-dc--Muthu-Venkitasubramaniam--Ligetron-WASM-as-an-Intermediate-Representation-and-easy-tooling-for-zkSNARKs.pdf)\] \[[Video](https://youtu.be/K1fA3Yqe85o&t=2h25m50s)\]
+5. _Privacy and Compliance - Striking a Delicate Balance_. Pablo Kogan (QEDIT). \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2023-11-dc/20231130-zkproof-dc--Pablo-Kogan--Privacy-and-Compliance-Striking-a-Delicate-Balance.pdf)\] \[[Video](https://youtu.be/TmCoURJ-stk&t=2m36s)\]
+6. _ZKPs for Balancing Privacy and Accountability_. Anna Lysyanskaya (wn University). \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2023-11-dc/20231130-zkproof-dc--Anna-Lysyanskaya---ZKPs-for-Balancing-Privacy-and-Accountability.pdf)\] \[[Video](https://youtu.be/TmCoURJ-stk&t=37m36s)\]
+7. _ZKPs for Trust in Software and Hardware_. James Parker (Galois). \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2023-11-dc/20231130-zkproof-dc--James-Parker--ZKPs-for-Trust-in-Software-and-Hardware.pdf)\] \[[Video](https://youtu.be/TmCoURJ-stk&t=1h15m36s)\]
+8. _NIST's Views on Standardization of Advanced Cryptography_. René Peralta (NIST). \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2023-11-dc/20231130-zkproof-dc--Rene-Peralta--NISTs-Views-on-Standardization-of-Advanced-Cryptography.pdf)\] \[[Video](https://youtu.be/TmCoURJ-stk&t=2h11m23s)\]
+9. _Using ZKPs to Fight Disinformation_. Trisha Datta (Stanford University). \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2023-11-dc/20231130-zkproof-dc--Trisha-Datta--Using-ZKPs-to-Fight-Disinformation.pdf)\] \[[Video](https://youtu.be/TmCoURJ-stk&t=2h47m59s)\]
+10. _Panel roundtabe: Law Enforcement and ZKP_. Moderator: Jonathan Rouach (QEDIT) Panelists: Carol Van Cleef (Luminous Group), Linda Jeng (Crypto Council), Houman Shadab (ICME), Nasreen Djouini (White House). \[[Slides]()\] \[[Video](https://youtu.be/TmCoURJ-stk&t=3h26m30s)\]
+
 
 ## <a id="ZW5.5"></a>ZKProof 5.5 (ZW5.5)
 2023-Aug-02 @ Barcelona, Spain
 
-**Useful links:** [Workshop website](https://zkproof.org/events/zkproof-5-5-barcelona)
+**Useful links:** [Workshop website](https://zkproof.org/events/zkproof-5-5-barcelona) [Summarizing blogposts](https://zkproof.org/category/zkproof-5-5-talks-summary)
 
-1. _Plonk Standardisation Workshop_. Mary Maller (Ethereum Foundation and PQShield). \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2023-08-w55/20230802-zkproof5-5--mary-maller--slides--plonk-standardization.pdf)\]
-2. _Recursive Proof Composition_. Ying Tong Lai (Geometry). \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2023-08-w55/20230802-zkproof5-5--ying-tong--recursive-proof-composition.pdf)\]
-3. _Scaling Trustless DNN Inference with zkml and its Applications_. Daniel Kang (University of Illinois Urbana-Champaign)\[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2023-08-w55/20230802-zkproof5-5--daniel-kang--zkml.pdf)\]
-4. _SIEVE Circuit IR Specification_. James Parker (Galois) and Kimberlee Model (Stealth Software Inc). \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2023-08-w55/20230802-zkproof5-5--james-parker--kimberly-model--slides--sieve-circuit-IR.pdf)\]
-5. _VOLE-in-the-Head and the FAEST Post-Quantum Signature Scheme_. Peter Scholl (Aarhus University). \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2023-08-w55/20230802-zkproof5-5--peter-scholl--slides--VOLE-in-the-Head-and-FAEST-PQ-Sig.pdf)\]
+1. _Plonk Standardisation Workshop_. Mary Maller (Ethereum Foundation and PQShield). \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2023-08-w55/20230802-zkproof5-5--mary-maller--slides--plonk-standardization.pdf)\] \[[Summary blogpost](https://zkproof.org/2023/09/12/plonk-standardization-zkproof-5-5-mary-maller-talk-summary/)\]
+2. _Recursive Proof Composition_. Ying Tong Lai (Geometry). \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2023-08-w55/20230802-zkproof5-5--ying-tong--recursive-proof-composition.pdf)\] \[[Summary blogpost](https://zkproof.org/2023/09/12/recursive-proof-composition-by-ying-tong-lai/)\]
+3. _Scaling Trustless DNN Inference with zkml and its Applications_. Daniel Kang (University of Illinois Urbana-Champaign)\[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2023-08-w55/20230802-zkproof5-5--daniel-kang--zkml.pdf)\] \[[Summary blogpost](https://zkproof.org/2023/09/18/zkml-where-are-we-now-where-do-we-go-from-here-talk-summary-zkproof-5-5-daniel-kang/)\]
+4. _SIEVE Circuit IR Specification_. James Parker (Galois) and Kimberlee Model (Stealth Software Inc). \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2023-08-w55/20230802-zkproof5-5--james-parker--kimberly-model--slides--sieve-circuit-IR.pdf)\] \[[Summary blogpost](https://zkproof.org/2023/09/12/lessons-from-darpa-sieve-at-zkproof-org-by-james-parker-kimberlee-model/)\]
+5. _VOLE-in-the-Head and the FAEST Post-Quantum Signature Scheme_. Peter Scholl (Aarhus University). \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2023-08-w55/20230802-zkproof5-5--peter-scholl--slides--VOLE-in-the-Head-and-FAEST-PQ-Sig.pdf)\] \[[Summary blogpost](https://zkproof.org/2023/09/12/zkps-and-post-quantum-signatures-from-vole-in-the-head-at-zkproof-org-by-peter-scholl)\]
 
 
 ## <a id="ZW5"></a>5th ZKProof Workshop (ZW5)
