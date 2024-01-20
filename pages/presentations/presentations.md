@@ -15,7 +15,7 @@ To suggest updates, please send an email to editors (at) zkproof (dot) org.
 
 ## Index of workshops
 
-- [**ZDC'03**](#ZW5.5)**:** ZKProof Policy @ DC. **2023**-Nov-30. Washington DC, USA
+- [**ZDC'23**](#ZDC23)**:** ZKProof Policy @ DC. **2023**-Nov-30. Washington DC, USA
 - [**ZW5.5**](#ZW5.5)**:** ZKProof 5.5 (A day in Barcelona). **2023**-Aug-02. Barcelona, Spain
 - [**ZW5**](#ZW5)**:** 5th ZKProof Workshop. **2022**-Nov-15--17. Tel Aviv, Israel
 - [**ZW4**](#ZW4)**:** 4th ZKProof Workshop (Home Edition). **2021**-Apr-19--29. Virtual
@@ -29,7 +29,7 @@ To suggest updates, please send an email to editors (at) zkproof (dot) org.
 Quick link: Most videos of talks can also be found via the Youtube index of [ZKProof Playlists](https://www.youtube.com/@zkproofstandards1776/playlists)
 
 
-## <a id="ZDC03"></a>ZKProof Policy @ DC (ZDC'03)
+## <a id="ZDC23"></a>ZKProof Policy @ DC (ZDC'23)
 2023-Nov-30 @ Washington DC, USA
 
 **Useful links:** [Workshop website](https://zkproof.org/events/zkproof-policy-at-washington-dc), [Youtube playlist](https://www.youtube.com/playlist?list=PLOEty2U8Y69XM2m4ECa6IYyfPXvkSBbSp)
