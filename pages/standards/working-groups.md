@@ -18,34 +18,34 @@ permalink: /standards/wg
 
 The purpose of this webpage is to identify [current](#wg-current) and [past](#wg-past) ZKProof Working Groups, and provide quick links to some of their reference material. ZKProof supports the dissemination of WG's reference material for community discussion, but each WG is reponsible for their own goals and documentation, including the descriptions provided below.
 
-## <a id="wg-current">Working Groups since 2024</a>
+## <a id="wg-current"></a>Working Groups since 2024
 
 Since the creation of the [ZKProof Standards Committee](https://docs.zkproof.org/standards) (2023), and the [process for WG creation](https://docs.zkproof.org/standards/process#process-WG) (2024), the following groups have been created:
 
-### <a id="fiat-shamir">Fiat-Shamir Compiler</a>
+### <a id="fiat-shamir"></a>Fiat-Shamir Compiler
 The Fiat-Shamir heuristic is a method for transforming a public-coin interactive proof into a non-
 interactive proof via cryptographic hash functions. This project aims to bridge the theoretical and practical aspects of the Fiat-Shamir transforms. The WG's goal is to develop a technique that is easy to implement using sponge functions, algebraic hashes, and the NIST SHA2 API (update and digest) now used in most programming languages.
 - Team contact: `[TBA]`
 - Main repo: `[TBA]`
 
-### <a id="oracle">Oracle Compilers</a>
+### <a id="oracle"></a>Oracle Compilers
 An oracle compiler converts an interactive oracle proof (IOP) into an interactive proof (IP). In practice, this involves composing the IOP with a cryptographic commitment scheme, resulting in an interactive argument. The primary purpose of the Oracle Compiler Working Group is to define a high-level interface between IOPs and commitment schemes, informed by protocols and implementations being used in the wider community. Details relating to only IOPs (e.g. rounds of interaction) are not in the scope of this working group.
 - Team contact: `zkproof-oracle-compilers(at)googlegroups(dot)com`
 - Main repo: `[TBA]`
 
-### <a id="plonkish">Plonkish Constraint System</a>
+### <a id="plonkish"></a>Plonkish Constraint System
 An arithmetisation is a language that a proof system uses to express statements. A circuit is a program in this language. The associated computation has been computed correctly if and only if all of the constraints in the circuit are satisified. The primary purpose of this ZKProof Working Group is to specify a particular arithmetisation: the "Plonkish" arithmetisation used in the Halo 2 proving system.
 - Team contact: `plonkish-team(at)googlegroups(dot)com`
 - Main repo: https://github.com/zkpstandard/wg-plonkish
 
-### <a id="sigma">Sigma Protocols</a>
+### <a id="sigma"></a>Sigma Protocols
 Sigma ($\Sigma$) protocols, introduced by Schnorr in 1991, play an essential component in the building of a  number of cryptographic constructions, such as anonymous credentials, password-authenticated key exchange, signatures, ring signatures, blind signatures, multi-signatures, threshold signatures and more. This WG (continuing the work proposal submitted in 2021 to ZKProof Workshop 4) develops guidelines for correctly implementing Sigma protocols.
 - Team contact: `sigma-protocols(at)zkproof(dot)org`
 - Main repo: https://github.com/zkpstandard/wg-sigma-protocols
 
 
 
-## <a id="wg-past">Working groups prior to 2022</a>
+## <a id="wg-past"></a>Working groups prior to 2022
 
 Between 2019 and 2021, ZKProof motivated the submission of proposals for specifications, and the creation of various working groups.
 
