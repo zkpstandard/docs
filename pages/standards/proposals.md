@@ -5,7 +5,7 @@ parent: ZKProof Standards
 nav_order: 3
 permalink: /standards/proposals
 ---
-# Proposals for ZKProof specifications
+# Proposals for ZKProof Specifications
 {: .no_toc }
 
 ## Table of contents
@@ -16,11 +16,11 @@ permalink: /standards/proposals
 
 ---
 
-## Proposals submitted 2023 onward
+## Specification Proposals since 2023/2024
 
-To be added: notes about proposals of working groups created since the inception (in 2023) of the ZKProof Standards Committee.
+Upcoming specification proposals are expected to emerge from various [working groups](https://docs.zkproof.org/standards/wg#wg-current), following the [Process for Creating a ZKProof Specification (ZSpec)](https://docs.zkproof.org/standards/process#process-ZSpec).
 
-## Proposals submitted between 2019 and 2021
+## Specification Proposals submitted between 2019 and 2021
 
 In preparation for every workshop, the community submits papers on the security, implementation and applications of zero-knowledge proofs. If accepted, the papers are to be discussed at the upcoming workshop with the goal to convey and facilitate progress in zero-knowledge proof technology, by sharing knowledge among participants and by creating public living documents that convey the state of the art. Submissions can be along the following tracks:
 
@@ -87,3 +87,5 @@ In this edition, only proposals were submitted. [Here](https://zkpstandard.githu
 - [_J-R1CS, a JSON Lines format for R1CS_](/pages/standards/accepted-workshop2/proposal--zk-interop-jr1cs.pdf) - Guillaume Drevon
 - [_Commit and Prove Zero-Knowledge Proof Systems_](/pages/standards/accepted-workshop2/proposal--zk-commit-and-prove.pdf) - Daniel Benarroch, Matteo Campanelli and Dario Fiore
 - [_Generation of Twisted Edwards Elliptic Curves for Circuit Use_](/pages/standards/accepted-workshop2/proposal--elliptic-curve-generation.pdf) - Barry WhiteHat, Jordi Baylina and Marta Belles
+
+For comments and updates, send email to `standards at zkproof dot org`

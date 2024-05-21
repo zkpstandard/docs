@@ -5,7 +5,7 @@ parent: ZKProof Standards
 nav_order: 2
 permalink: /standards/wg
 ---
-# Working Groups
+# ZKProof Working Groups (WG)
 {: .no_toc }
 
 ## Table of contents
@@ -16,32 +16,42 @@ permalink: /standards/wg
 
 ---
 
-This page collects links to resources about past working groups that submitted  Standardization effort, as well as proposals and systematizations of knowledge submitted to ZKProof workshops.
+The purpose of this webpage is to identify [current](#wg-current) and [past](#wg-past) ZKProof Working Groups, and provide quick links to some of their reference material. ZKProof supports the dissemination of WG's reference material for community discussion, but each WG is reponsible for their own goals and documentation, including the descriptions provided below.
 
-For comments and updates, please email `standards at zkproof dot org`.
+## <a id="wg-current">Working Groups since 2024</a>
 
-## Working groups 2023 onward
+Since the creation of the [ZKProof Standards Committee](https://docs.zkproof.org/standards) (2023), and the [process for WG creation](https://docs.zkproof.org/standards/process#process-WG) (2024), the following groups have been created:
 
-### Plonkish Constraint System
-Details to be added soon.
+### <a id="fiat-shamir">Fiat-Shamir Compiler</a>
+The Fiat-Shamir heuristic is a method for transforming a public-coin interactive proof into a non-
+interactive proof via cryptographic hash functions. This project aims to bridge the theoretical and practical aspects of the Fiat-Shamir transforms. The WG's goal is to develop a technique that is easy to implement using sponge functions, algebraic hashes, and the NIST SHA2 API (update and digest) now used in most programming languages.
+- Team contact: `[TBA]`
+- Main repo: `[TBA]`
 
-### Fiat-Shamir Compiler
-Details to be added soon.
+### <a id="oracle">Oracle Compilers</a>
+An oracle compiler converts an interactive oracle proof (IOP) into an interactive proof (IP). In practice, this involves composing the IOP with a cryptographic commitment scheme, resulting in an interactive argument. The primary purpose of the Oracle Compiler Working Group is to define a high-level interface between IOPs and commitment schemes, informed by protocols and implementations being used in the wider community. Details relating to only IOPs (e.g. rounds of interaction) are not in the scope of this working group.
+- Team contact: `zkproof-oracle-compilers(at)googlegroups(dot)com`
+- Main repo: `[TBA]`
 
-### Sigma Protocols
-Details to be added soon.
+### <a id="plonkish">Plonkish Constraint System</a>
+An arithmetisation is a language that a proof system uses to express statements. A circuit is a program in this language. The associated computation has been computed correctly if and only if all of the constraints in the circuit are satisified. The primary purpose of this ZKProof Working Group is to specify a particular arithmetisation: the "Plonkish" arithmetisation used in the Halo 2 proving system.
+- Team contact: `plonkish-team(at)googlegroups(dot)com`
+- Main repo: https://github.com/zkpstandard/wg-plonkish
 
-**Other working groups:**
-Read the [parent page](https://docs.zkproof.org/standards) for guidelines on how to propose a new working group.
+### <a id="sigma">Sigma Protocols</a>
+Sigma ($\Sigma$) protocols, introduced by Schnorr in 1991, play an essential component in the building of a  number of cryptographic constructions, such as anonymous credentials, password-authenticated key exchange, signatures, ring signatures, blind signatures, multi-signatures, threshold signatures and more. This WG (continuing the work proposal submitted in 2021 to ZKProof Workshop 4) develops guidelines for correctly implementing Sigma protocols.
+- Team contact: `sigma-protocols(at)zkproof(dot)org`
+- Main repo: https://github.com/zkpstandard/wg-sigma-protocols
 
 
-## Working groups prior to 2022
+
+## <a id="wg-past">Working groups prior to 2022</a>
 
 Between 2019 and 2021, ZKProof motivated the submission of proposals for specifications, and the creation of various working groups.
 
 Throughout various ZKProof workshops, "proposals" were submitted for discussion by the community. Some of these led to the creation of "working groups" (WG) intended to subsequently develop/refine/improve the proposals, possibly toward future standards. While they have not been subject to any formal process for subsequent standardization, they have produced various documents (see below) that may serve as useful reference material.
 
-Note: there is also another page with a [list of the initial proposals](https://docs.zkproof.org/standards/proposals) submitted to ZKProof workshops.
+Note: there is another webpage with a [list of initial proposals](https://docs.zkproof.org/standards/proposals) submitted to ZKProof workshops.
 
 
 | \#| WG Name (Telegram Group) | Goal | Repo | Documents |
@@ -64,3 +74,4 @@ Note: there is also another page with a [list of the initial proposals](https://
 **Legend:** **W2** = paper @ 2th workshop; **W3** = paper @ 3rd workshop; **W4** = paper @ 4th workshop.
 
 
+For comments and updates, send email to `standards at zkproof dot org`

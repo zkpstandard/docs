@@ -18,13 +18,14 @@ permalink: /standards
 
 ## ZKProof Standards Committee
 
-The revision of the ZKProof structure in 2023 created a new team focused on developing a process for Specifications and Standards. The **"ZKProof Standards Committee"** will coordinate a process for development of specifications by ZKProof [Working Groups](https://docs.zkproof.org/standards/wg), and corresponding evaluation. The work can be directed (i) with the goal of future homologation as ZKProof community standard, or/and (ii) for future submission of ZKP specifications in reply to calls by other standardization bodies.
+The revision of the ZKProof structure in 2023 created a new team focused on developing a process for Specifications and Standards. The **"ZKProof Standards Committee"** will coordinate a process for development of specifications by ZKProof [Working Groups](https://docs.zkproof.org/standards/wg), and corresponding evaluation. These actions can be directed toward (i) future homologation of ZKProof community standards, or/and (ii) future submissions of ZKP specifications in reply to calls by other standardization bodies.
 
-The composition of the ZKProof Standards Committee and of the approved Working Groups will be updated and publicly listed at [https://docs.zkproof.org/standards/wg](https://docs.zkproof.org/standards/wg).
+Since the 2nd half of 2023, the ZKProof Standards Committee has focused on motivating the creation of various **W**orking **G**roup**s** (WGs) that can develop concrete specifications. The first step to create a new ZKProof WG is contacting the Standards Committee by email: `standards at zkproof dot org`. Spontaneous proposals are welcome, including for WGs on topics not listed below, e.g., alternative constraint systems. To be considered for approval, there is a [formal process](https://docs.zkproof.org/standards/process) for proposing the WG, which involves submitting an abstract and other information.
 
 
-## Plan for 2023/2024
-The action reflected for the 2nd half of 2023 onward is focused on the creation of various **W**orking **G**roups (WG) that will develop concrete specifications. The focus in on five (5) modules that can be combined in a flow that enables a generic ZKP system, as follows:
+## Plan for 2024/2025
+
+The current main goal of the Standards Committe is to assist with the creation of WGs and support their development. One focus of interest is on modules useful for enabling a generic ZKP system, namely zk-SNARKs, as described in the following linear flow-chart:
 
 ```mermaid
   graph LR
@@ -40,44 +41,28 @@ The action reflected for the 2nd half of 2023 onward is focused on the creation 
       click E "https://docs.zkproof.org"
 ```
 
-**Putting all together.** The Standards Team will also seek to ensure that a specification is also developed on how to put together the various modules.
+It is also important to consider how to put together the various modules. Additionally, WGs can be created for developing relevant specifications that may be outside the scope of the above flowchart, as is the case with [Sigma Protocols](https://docs.zkproof.org/standards/wg#sigma).
+
+## Example Working Groups (WGs)
+
+More information on existing and past WGs can be found in the dedicated [ZKProof wepage of Working Groups](https://docs.zkproof.org/standards/wg). The following is a list topics and corresponding WGs that have either been created or whose creation is being promoted. A WG usually focuses on a concrete specification/implementation, rather than covering all ZKP possibilities within its topic/scope.
+
+**WGs for modules useful for generic SNARKs:**
+
+1. **Constraint System:** The **[PLONKish WG](https://docs.zkproof.org/standards/wg#plonkish)** is developing a specification for a PLONKish constraint system, including the encoding of constraint systems for various key-applications, such as for proving knowledge of a secret/private key or pre-image of various cryptographic primitives (e.g., related to a blockcipher [AES](https://csrc.nist.gov/pubs/fips/197/final), hash-functions [SHA2](https://csrc.nist.gov/pubs/fips/180-4/upd1/final)/[SHA3](https://csrc.nist.gov/pubs/fips/202/final), and signatures [RSA/ECDSA/EdDSA](https://csrc.nist.gov/pubs/sp/800/56/b/r2/final)).
+2. **Optimising System:** A conceivable WG could formally specify optimisations applicable to some constraint system (e.g., for [Plonkish](https://docs.zkproof.org/standards/wg#plonkish)).
+3. **Interactive Oracle Proof (IOP):** A conceivable WG could develop a specification for a Polynomial IOP (PolyIOP) as the information theoretic layer of a proving system (see details in chapter 2 of  [ZkpComRef 0.3](https://docs.zkproof.org/reference.pdf)).
+4. **Oracle Compiler**: The **[Oracle Compiler WG](https://docs.zkproof.org/standards/wg#oracle)** is developing a specification for a generic compiler for converting a PolyIOP into an interactive argument/proof using polynomial commitments.  The compiler should be agnostic to the polynomial commitment scheme being used.  Each polynomial commitment scheme would be covered by a separate WG.
+7. **Non-Interactivenss (NI) compiler:** The **[Fiat-Shamir WG](https://docs.zkproof.org/standards/wg#fiat-shamir)** is developing a specification for the Fiat-Shamir transformation.
+
+**Other WGs:**
+
+- **Sigma Protocols:** The **[Sigma Protocols WG](https://docs.zkproof.org/standards/wg#sigma)** is developing a specification about $\Sigma$-protocols, which are mature, stable, well-understood, standalone protocols suitable for important, simple relations. The WG aims to bridge across various external efforts, including by IETF ([OPRF](https://datatracker.ietf.org/doc/html/draft-irtf-cfrg-voprf-03#section-5), [Schnorr](https://datatracker.ietf.org/doc/html/rfc8235)), NIST ([Threshold Call](https://csrc.nist.gov/projects/threshold-cryptography)), and W3C ([BBS+ signatures](https://decentralized-id.com/web-standards/w3c/verifiable-credentials/data-integrity-bbs+/)). The WG takes in consideration various past interventions that suggested the need for standardization of Schnorr proofs, such as a [letter to NIST (2016)](https://zkp.science/docs/Letter-to-NIST-20160613-Advanced-Crypto.pdf) and a [keynote by Camenish (2019)](https://www.youtube.com/watch?v=4_QdsFM29fQ).
 
 
-**Concrete instantiations per module.** To develop concrete instantiations for each module, various working groups are being created. While the identified focuses do not necessarily cover all possibilities, they intend to enable at least one concrete specification/implementation of a full generic ZKP system.
+## Useful ZKProof links for further context:
+- ZKProof Internal structure: [https://docs.zkproof.org/about](https://docs.zkproof.org/about)
+- ZKProof Working Groups: [https://docs.zkproof.org/standards/wg](https://docs.zkproof.org/standards/wg)
+- ZKProof Standards Process: [https://docs.zkproof.org/standards/process](https://docs.zkproof.org/standards/process)
 
-1. **Constraint System:**
-   - Specification for PLONKish
-   - Encoding constraint systems for various key-applications, such as for proving knowledge of a secret/private key or pre-image of various cryptographic primitives (e.g., related to a blockcipher [AES](https://csrc.nist.gov/pubs/fips/197/final), hash-functions [SHA2](https://csrc.nist.gov/pubs/fips/180-4/upd1/final)/[SHA3](https://csrc.nist.gov/pubs/fips/202/final), and signatures [RSA/ECDSA/EdDSA](https://csrc.nist.gov/pubs/sp/800/56/b/r2/final)).
-
-2. **Optimising System:**
-   - Corresponding permitted optimisations specific to the Plonkish constraint system.
-
-3. **Interactive Oracle Proof (IOP)**
-    - Polynomial interactive oracle proof as the information theoretic layer of the proving system. <small>**Note:** See more details at [ZkpComRef 0.3](https://docs.zkproof.org/reference.pdf) (chapter 2). </small>
-
-4. **Oracle Compiler**:
-    - Generic compiler for converting a PolyIOP to an interactive argument/proof using polynomial commitments.  This compiler should be agnostic to the polynomial commitment scheme being used.  In particular it should be compatible with:
-        - Polynomial commitments over pairing groups such as KZG10.
-        - Inner Product Arguments over pairing-free groups.
-        - FRI (**F**ast **R**eed-Solomon **I**OP of Proximity)
-    - Each polynomial commitment scheme will be covered by separate working groups.
-5. **Non-Interactivenss (NI) compiler**
-    - Fiat-Shamir transformation
-
-
-## How to propose a new Working Group (WG)
-
-Each new working group (for developing a specification) should be formally proposed to the ZKProof Standards Committee, by means of an abstract that identifies various key elements (see below). Upon internal analysis, the Standards Committee will seek initial advisory opinion from the ZKProof Steering Committee and the ZKProof Editors Team. This may result in direct acceptance, or in recommendations for improvement/adjustment of the proposal and re-submission. If/when a proposal is accepted, the plan of the WG will be [published](http://docs.zkproof.org/standards/proposals), and the team will be invited to present their yearly progress at ZKProof events.
-
-At a minimum, the proposal of a working group for a specification must include:
-1. Title of the working group (WG)
-2. Initial team composition (names, affiliations, contact email-addresses)
-3. A contact email address (may be a mailing list) to be publicly-displayed
-4. An abstract (<=350 words) explaining the WG goal and expected deliverables
-5. The expected structure, deliverables, and time-frame for the initial draft
-6. A list of technical/scientific references related to the WG goal
-
-
-Proposals are welcome, including for working groups on topics not listed above, e.g., alternative constraint systems (such as R1CS, AIR, or CCS). <small>**Legend:** AIR = **A**rithmetized **I**ntermediate **R**epresentation. CCS = **C**ustomizable **C**onstraint **S**ystem.  R1CS = **R**ank-**1** **C**onstraint **S**ystem.</small>
-
-To propose a new WG, please email `standards (at) zkproof (dot) org`, cc'ing all members of the proposed team.
+For comments and updates, please email `standards at zkproof dot org`
