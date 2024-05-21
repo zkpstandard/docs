@@ -16,7 +16,7 @@ permalink: /standards/process
 
 ---
 
-## <a id="process-intro"></a>Introduction
+## Introduction
 
 The ZKProof effort (initiated in 2018) aims to develop reference material, specifications and standards that will support adoption of advanced cryptographic schemes, with deployment of secure and interoperable zero-knowledge proof systems.
 
@@ -26,7 +26,8 @@ The [ZKProof Standards Committee](https://docs.zkproof.org/standards) was [forme
 
 These processes are in an early stage of implementation. Based on ZKProof discussions, the processes will be adaptable to integrate learnings obtained throughout their instantiations. Correspondingly, this webpage will be progessively adapted.
 
-## <a id="process-WG"></a>Process for creating a ZKProof Working Group (WG)
+<a id="process-WG"></a>
+## Process for creating a ZKProof Working Group (WG)
 
 1. **Abstract submission:** Each new working group (for developing a specification) should be formally proposed to the ZKProof Standards Committee, by means of an abstract that identifies various key elements (see below). At a minimum, the proposal of a working group for a specification must include:
     1. **WG Title:** Title of the working group (WG).
@@ -43,7 +44,8 @@ These processes are in an early stage of implementation. Based on ZKProof discus
 2. **Abstract review/approval.** Upon internal analysis, the ZKProof Standards Committee will seek initial advisory opinion from the ZKProof Steering Committee and the ZKProof Editors Team. The follow up may then result in either (i) an approval (possibly with editorial suggestions), or (ii) a request for improvement/adjustment based on provided feedback, and subsequent resubmission of the WG abstract. Revisions to the abstract may be submitted under the same process, being identified with an incremental version number and date. (The team composition can be updated at any time, by simple information to the Standards Committee, for update on the webpage)
 3. **WG Presentation.** After an initial review of the WG creation proposal, the Standards Committe will also invite the proposed WG to give a video-conference presentation about the goals and plan. The Editors and Steering Committe observers will also be invited to attend, for possible further feedback. In some cases this step can be replaced by a related public presentation at a ZKProof event.
 
-## <a id="process-ZSpec"></a>Process for creating a ZKProof Specification (ZSpec)
+<a id="process-ZSpec"></a>
+## Process for creating a ZKProof Specification (ZSpec)
 
 Note: The ZKProof-Standards Committee will be available to meet with WGs to discuss suggestions of document structure for the ZSpec-Proposals.
 
