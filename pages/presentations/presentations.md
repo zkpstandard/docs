@@ -15,7 +15,8 @@ To suggest updates, please send an email to editors (at) zkproof (dot) org.
 
 ## Index of workshops
 
-- [**ZW7**](#ZW7)**:** 7th ZKProof Workshop. **2025**-Mar-23--25. Virtual
+- [**ZW7**](#ZW7)**:** 7th ZKProof Workshop. **2025**-Mar-23--25. Sofia, Bulgaria
+- [**ZW6**](#ZW6)**:** 6th ZKProof Workshop. **2024**-May-22--24. Berlin, Germany
 - [**ZDC'23**](#ZDC23)**:** ZKProof Policy @ DC. **2023**-Nov-30. Washington DC, USA
 - [**ZW5.5**](#ZW5.5)**:** ZKProof 5.5 (A day in Barcelona). **2023**-Aug-02. Barcelona, Spain
 - [**ZW5**](#ZW5)**:** 5th ZKProof Workshop. **2022**-Nov-15--17. Tel Aviv, Israel
@@ -31,7 +32,7 @@ Quick link: Most videos of talks can also be found via the Youtube index of [ZKP
 
 
 ## <a id="ZW7"></a>7th ZKProof Workshop (ZW7)
-2025-Mar-23--25, Virtual
+2025-Mar-23--25 @ Sofia, Bulgaria
 
 **Useful links:** [Workshop website](https://zkproof.org/events/zkproof-7-sofia/)
 
@@ -74,6 +75,48 @@ Quick link: Most videos of talks can also be found via the Youtube index of [ZKP
 7. _Benchmarking zkVMs: Efficiency, Bottlenecks, and Best Practices_. Masato Tsutsumi. \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2025-03-w7/20250325-zkproof7--Masato-Tsutsumi--Benchmarking-zkVMs-Efficiency,-Bottlenecks,-and-Best-Practices.pdf)\]
 8. _Using Hax for Correct and Secure Zero-Knowledge Implementations_. Lasse Letager Hansen. \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2025-03-w7/20250325-zkproof7--Lasse-Letager-Hansen--Using-Hax-for-Correct-and-Secure-Zero-Knowledge-Implementations.pdf)\]
 9. _On the Formal Verification of Polynomial Commitment Schemes: the KZG and beyond_. Tobias Rothmann. \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2025-03-w7/20250325-zkproof7--Tobias-Rothmann--On-the-Formal-Verification-of-Polynomial-Commitment-Schemes-the-KZG-and-beyond.pdf)\]
+
+
+## <a id="ZW6"></a>6th ZKProof Workshop (ZW6)
+2024-May-22--24 @ Berlin, Germany
+
+**Useful links:** [Workshop website](https://zkproof.org/events/zkproof-6-berlin/)
+
+#### 2024-May-22
+1. _Building Succinct Arguments From Ideal Hash Functions_. Alessandro Chiesa. \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2024-05-w6/20240522-zkproof6--Alessandro-Chiesa--Building-Succinct-Arguments-From-Ideal-Hash-Functions.pdf)\]
+2. _STIR: Reed-Solomon Proximity Testing with Fewer Queries_. Eylon Yogev. \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2024-05-w6/20240522-zkproof6--Eylon-Yogev--STIR-Reed-Solomon-Proximity-Testingwith-Fewer-Queries.pdf)\]
+3. _Basefold: Efficient Polynomial Commitment Schemes from Foldable Codes_. Hadas Zeilberger. \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2024-05-w6/20240522-zkproof6--Hadas-Zeilberger--Basefold-Efficient-Polynomial-Commitment-Schemesfrom-Foldable-Codes.pdf)\]
+4. _SoK: Programmable Privacy_. Daniel Benarroch and Ying Tong Lai. \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2024-05-w6/20240522-zkproof6--Daniel-Benarroch--Ying-Tong-Lai--SoK-Programmable-Privacy.pdf)\]
+5. _Compliance for Digital Assets_. Pablo Kogan. \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2024-05-w6/20240522-zkproof6--Pablo-Kogan--Compliancefor-Digital-Assets.pdf)\]
+6. _Aggios: Scalable Aggregator-Based Voting_. Doron Zarchy. \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2024-05-w6/20240522-zkproof6--Doron-Zarchy--Aggios-Scalable-Aggregator-Based-Voting.pdf)\]
+7. _Jolt: SNARKs for virtual machines via lookups_. Arasu Arun and Michael Zhu. \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2024-05-w6/20240522-zkproof6--Arasu-Arun--Michael-Zhu--Jolt-SNARKs-for-virtual-machines-via-lookups.pdf)\]
+8. _SNARK Flipper: Flip and prove multiple instances efficiently_. Nikitas Paslis. \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2024-05-w6/20240522-zkproof6--Nikitas-Paslis--SNARK-Flipper-Flip-and-prove-multiple-instances-efficiently.pdf)\]
+9. _ZK ACTUS: Verifiable Financial Contracts_. Mark Greenslade. \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2024-05-w6/20240522-zkproof6--Mark-Greenslade--ZK-ACTUS-Verifiable-Financial-Contracts.pdf)\]
+
+#### 2024-May-23
+1. _Formal Verification of Arithmetic Circuits_. Marcin Kostrzewa. \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2024-05-w6/20240523-zkproof6--Marcin-Kostrzewa--Formal-Verificationof-Arithmetic-Circuits.pdf)\]
+2. _Comparing Proof Systems and Their Implementations_. Matteo Campanelli. \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2024-05-w6/20240523-zkproof6--Matteo-Campanelli--Comparing-Proof-Systemsand-Their-Implementations.pdf)\]
+3. _ZK in the wild: building private payments and beyond_. Calum Moore. \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2024-05-w6/20240523-zkproof6--Calum-Moore--ZK-in-the-wild-building-private-payments-and-beyond.pdf)\]
+4. _BitVM: Smarter Bitcoin Contracts_. Robin Linus. \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2024-05-w6/20240523-zkproof6--Robin-Linus--BitVM-Smarter-Bitcoin-Contracts.pdf)\]
+5. _Why There is No ZK in Bitcoin_. Jonas Nick. \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2024-05-w6/20240523-zkproof6--Jonas-Nick--Why-There-is-No-ZK-in-Bitcoin.pdf)\]
+6. _Real-World zkSNARKs are non-malleable_. Luigi Russo. \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2024-05-w6/20240523-zkproof6--Luigi-Russo--Real-World-zkSNARKs-are-non-malleable.pdf)\]
+7. _Blendy: A Time-Space Tradeoff for the Sumcheck Prover_. Andrew Zitek-Estrada. \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2024-05-w6/20240523-zkproof6--Andrew-Zitek-Estrada--Blendy-A-Time-Space-Tradeoffforthe-Sumcheck-Prover.pdf)\]
+8. _Memory Checking in Folding zkVMs_. Jens Groth. \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2024-05-w6/20240523-zkproof6--Jens-Groth--Memory-Checking-in-Folding-zkVMs.pdf)\]
+9. _SLAP: Succinct Lattice-Based Polynomial Commitment_. Giacomo Fenzi. \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2024-05-w6/20240523-zkproof6--Giacomo-Fenzi--SLAP-Succinct-Lattice-Based-Polynomial-Commitment.pdf)\]
+10. _Verifying the Verifier_. Ben Livshits. \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2024-05-w6/20240523-zkproof6--Ben-Livshits--Verifyingthe-Verifier.pdf)\]
+
+#### 2024-May-24
+1. _ZK for Modern Authentication_. Kostas Chalkias. \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2024-05-w6/20240524-zkproof6--Kostas-Chalkias--ZK-for-Modern-Authentication.pdf)\]
+2. _The Last Challenge Attack_. Oana Ciobotaru. \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2024-05-w6/20240524-zkproof6--Oana-Ciobotaru--The-Last-Challenge-Attack.pdf)\]
+3. _The Nexus 1.0 zkVM_. Daniel Marin. \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2024-05-w6/20240524-zkproof6--Daniel-Marin--The-Nexus-1.0-zkVM.pdf)\]
+4. _PriDe-CT: Towards Public Consensus, Private Transactions and Forward Secrecy in Decentralized Payments_. Harish Karthikeyan. \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2024-05-w6/20240524-zkproof6--Harish-Karthikeyan--PriDe-CT-Towards-Public-Consensus-Private-Transactions-and-Forward-Secrecyin-Decentralized-Payments.pdf)\]
+5. _SoK: Security Vulnerabilities in SNARKs_. Stefanos Chaliasos. \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2024-05-w6/20240524-zkproof6--Stefanos-Chaliasos--SoK-Security-Vulnerabilities-in-SNARKs.pdf)\]
+6. _Ligetron and the Llama Inference_. Muthu Venkitasubramaniam. \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2024-05-w6/20240524-zkproof6--Muthu-Venkitasubramaniam--Ligetronandthe-Llama-Inference.pdf)\]
+7. _Security of the Nova Proof System_. Hyeonbum Lee. \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2024-05-w6/20240524-zkproof6--Hyeonbum-Lee--Security-of-the-Nova-Proof-System.pdf)\]
+8. _Pushing the Performance and Usability of Zero-Knowledge Proofs_. Daniel Dore and Ventali Tan. \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2024-05-w6/20240524-zkproof6--Daniel-Dore--Ventali-Tan--Pushing-the-Performance-and-Usability-of-Zero-Knowledge-Proofs.pdf)\]
+9. _How to Prove on Gevulot_. Norbert Vadas. \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2024-05-w6/20240524-zkproof6--Norbert-Vadas--How-to-Prove-on-Gevulot.pdf)\]
+10. _zkSNARKs in the ROM with unconditional UC security_. Giacomo Fenzi. \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2024-05-w6/20240524-zkproof6--Giacomo-Fenzi--zkSNARKs-in-the-ROM-with-unconditional-UC-security.pdf)\]
+11. _Conclusions of Standards Working Groups_. Mary Maller, Ying Tong Lai, and Michele Orru. \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2024-05-w6/20240524-zkproof6--Mary-Maller--Ying-Tong-Lai--Michele-Orru--Conclusions-of-Standards-Working-Groups.pdf)\]
 
 
 ## <a id="ZDC23"></a>ZKProof Policy @ DC (ZDC'23)
@@ -363,3 +406,5 @@ A [full video of the 3rd day](https://youtu.be/Mbz0v-Kiiq8) (2022-Nov-17) is als
 10. _Proofs for all, data for no one_. Jonathan Rouach, QED-it. [Video](https://www.youtube.com/watch?v=3JGk4SeWVVg)
 11. _Zcash Sapling_. Sean Bowe, Zcash. [Video](https://www.youtube.com/watch?v=JGbjurhFYUQ)
 11. _Zero Knowledge: The trusted party (ideal functionality) interface_. Ran Canetti. [Video](https://www.youtube.com/watch?v=J7cRwKDtcjQ)
+
+
