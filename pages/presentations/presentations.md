@@ -15,6 +15,7 @@ To suggest updates, please send an email to editors (at) zkproof (dot) org.
 
 ## Index of workshops
 
+- [**ZW7**](#ZW7)**:** 7th ZKProof Workshop. **2025**-Mar-23--25. Virtual
 - [**ZDC'23**](#ZDC23)**:** ZKProof Policy @ DC. **2023**-Nov-30. Washington DC, USA
 - [**ZW5.5**](#ZW5.5)**:** ZKProof 5.5 (A day in Barcelona). **2023**-Aug-02. Barcelona, Spain
 - [**ZW5**](#ZW5)**:** 5th ZKProof Workshop. **2022**-Nov-15--17. Tel Aviv, Israel
@@ -27,6 +28,52 @@ To suggest updates, please send an email to editors (at) zkproof (dot) org.
 - [**ZW1**](#ZW1)**:** 1st ZKProof Workshop. **2018**-May-10--11. Boston, USA
 
 Quick link: Most videos of talks can also be found via the Youtube index of [ZKProof Playlists](https://www.youtube.com/@zkproofstandards1776/playlists)
+
+
+## <a id="ZW7"></a>7th ZKProof Workshop (ZW7)
+2025-Mar-23--25, Virtual
+
+**Useful links:** [Workshop website](https://zkproof.org/events/zkproof-7-sofia/)
+
+#### 2025-Mar-23
+1. _Towards a White-Box Secure Fiat-Shamir Transformation_. Eylon Yogev. \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2025-03-w7/20250323-zkproof7--Eylon-Yogev--Towards-a-White-Box-Secure-Fiat-Shamir-Transformation.pdf)\]
+2. _How to Prove False Statements: Practical Attacks on Fiat-Shamir_. Ron Rothblum. \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2025-03-w7/20250323-zkproof7--Ron-Rothblum--How-to-Prove-False-Statements-Practical-Attacks-on-Fiat-Shamir.pdf)\]
+3. _WHIR: Reed-Solomon Proximity Testing with Super-Fast Verification_. Giacomo Fenzi. \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2025-03-w7/20250323-zkproof7--Giacomo-Fenzi--WHIR_-Reed-Solomon-Proximity-Testing-with-Super-Fast-Verification.pdf)\]
+4. _Towards adoption of distributed ledgers in traditional financial institutes_. Shaltiel Eloul. \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2025-03-w7/20250323-zkproof7--Shaltiel-Eloul--Towards-adoption-of-distributed-ledgers-in-traditional-financial-institutes.pdf)\]
+5. _zkLib - Verified Proof Systems in Lean_. Quang Dao. \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2025-03-w7/20250323-zkproof7--Quang-Dao--zkLib---Verified-Proof-Systems-in-Lean.pdf)\]
+
+#### 2025-Mar-24
+1. _On Knowledge-Soundness in ROM from Falsifiable Assumptions_. Roberto Parisella. \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2025-03-w7/20250324-zkproof7--Roberto-Parisella--On-Knowledge-Soundness-in-ROM-from-Falsifiable-Assumptions.pdf)\]
+2. _Holography Accumulation_. Carla Ràfols. \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2025-03-w7/20250324-zkproof7--Carla-Ràfols--Holography-Accumulation.pdf)\]
+3. _Zinc: Succinct arguments with small arithmetization overheads from IOPs of proximity to the integers_. Albert Garreta. \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2025-03-w7/20250324-zkproof7--Albert-Garreta--Zinc_-Succinct-arguments-with-small-arithmetization-overheads-from-IOPs-of-proximity-to-the-integers.pdf)\]
+4. _LatticeFold and LatticeFold+_. Dan Boneh. \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2025-03-w7/20250324-zkproof7--Dan-Boneh--LatticeFold-and-LatticeFold+.pdf)\]
+5. _Optimized ZK proofs for Paillier-based 2PC ECDSA_. Michael Adjedj. \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2025-03-w7/20250324-zkproof7--Michael-Adjedj--Optimized-ZK-proofs-for-Paillier-based-2PC-ECDSA.pdf)\]
+6. _Blind zkSNARKs for Private Proof Delegation and Verifiable Computation over Encrypted Data_. Jannik Spiessens. \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2025-03-w7/20250324-zkproof7--Jannik-Spiessens--Blind-zkSNARKs-for-Private-Proof-Delegation-and-Verifiable-Computation-over-Encrypted-Data.pdf)\]
+7. _Security Bounds for Proof Carrying Data from Straightline Extractors_. Ziyi Guan. \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2025-03-w7/20250324-zkproof7--Ziyi-Guan--Security-Bounds-for-Proof-Carrying-Data-from-Straightline-Extractors.pdf)\]
+8. _Groth16 is UC Secure: The Brave New World of Global Generic Groups and UC Secure Zero Overhead SNARKs_. Jan Bobolz. \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2025-03-w7/20250324-zkproof7--Jan-Bobolz--Groth16-is-UC-Secure-The-Brave-New-World-of-Global-Generic-Groups-and-UC-Secure-Zero-Overhead-SNARKs.pdf)\]
+9. _Towards a Formal Foundation for Blockchain ZK Rollups_. Stefanos Chaliasos. \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2025-03-w7/20250324-zkproof7--Stefanos-Chaliasos--Towards-a-Formal-Foundation-for-Blockchain-ZK-Rollups.pdf)\]
+10. _zkVoting: A ZKP-Based Coercion-Resistant E-Voting System_. Hyunok Oh. \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2025-03-w7/20250324-zkproof7--Hyunok-Oh--zkVoting-A-ZKP-Based-Coercion-Resistant-E-Voting-System.pdf)\]
+11. _ZKVM: To Compile or Precompile_. Muthu Venkitasubramaniam. \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2025-03-w7/20250324-zkproof7--Muthu-Venkitasubramaniam--ZKVM_-To-Compile-or-Precompile.pdf)\]
+12. _Verifiable Computation for Approximate Homomorphic Encryption Schemes_. Daniele Cozzo. \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2025-03-w7/20250324-zkproof7--Daniele-Cozzo--Verifiable-Computation-for-Approximate-Homomorphic-Encryption-Schemes.pdf)\]
+13. _Relativized Succinct Arguments in the ROM Do Not Exist_. Ziyi Guan. \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2025-03-w7/20250324-zkproof7--Ziyi-Guan--Relativized-Succinct-Arguments-in-the-ROM-Do-Not-Exist.pdf)\]
+14. _Polymath: Groth16 Is Not The Limit_. Helger Lipmaa. \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2025-03-w7/20250324-zkproof7--Helger-Lipmaa--Polymath-Groth16-Is-Not-The-Limit.pdf)\]
+15. _Privacy and Compliance: From Solana to Zcash to a Win with ZKP_. Arseni Kalma. \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2025-03-w7/20250324-zkproof7--Arseni-Kalma--Privacy-and-Compliance_-From-Solana-to-Zcash-to-a-Win-with-ZKP.pdf)\]
+16. _Implementing Latticefold: Advancing Post-Quantum Folding_. Albert Garreta. \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2025-03-w7/20250324-zkproof7--Albert-Garreta--Implementing-Latticefold_Advancing-Post-Quantum-Folding.pdf)\]
+17. _Adding zero-knowledge to STARKs_. Ulrich Haboeck. \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2025-03-w7/20250324-zkproof7--Ulrich-Haboeck--Adding-zero-knowledge-to-STARKs.pdf)\]
+18. _Restoring Soundness of the Orion Proof System & More_. Thomas den Hollander. \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2025-03-w7/20250324-zkproof7--Thomas-den-Hollander--Restoring-Soundness-of-the-Orion-Proof-System-&-More.pdf)\]
+19. _On the Fiat–Shamir Security of FIOP-Based Succinct Arguments_. Christian Knabenhans. \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2025-03-w7/20250324-zkproof7--Christian-Knabenhans--On-the-Fiat–Shamir-Security-of-FIOP-Based-Succinct-Arguments.pdf)\]
+20. _TLSNotarization in Browsers_. Sofia Celi. \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2025-03-w7/20250324-zkproof7--Sofia-Celi--TLSNotarization-in-Browsers.pdf)\]
+
+#### 2025-Mar-25
+1. _Formally verifying zk(E)VMs with the Ethereum Foundation_. Alexander Hicks. \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2025-03-w7/20250325-zkproof7--Alexander-Hicks--Formally-verifying-zk(E)VMs-with-the-Ethereum-Foundation.pdf)\]
+2. _PLINK: Verified Generation of Constraints for PLONK_. Pablo Castellanos. \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2025-03-w7/20250325-zkproof7--Pablo-Castellanos--PLINK_-Verified-Generation-of-Constraints-for-PLONK.pdf)\]
+3. _Towards a verified Jolt zkVM_. James Parker. \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2025-03-w7/20250325-zkproof7--James-Parker--Towards-a-verified-Jolt-zkVM.pdf)\]
+4. _The Verified Verifier_. Jonathan Rouach. \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2025-03-w7/20250325-zkproof7--Jonathan-Rouach--The-Verified-Verifier.pdf)\]
+5. _Brief update on Sigma Protocols and Fiat-Shamir standardization_. Michele Orru. \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2025-03-w7/20250325-zkproof7--Michele-Orru--Brief-update-on-Sigma-Protocols-and-Fiat-Shamir-standardization.pdf)\]
+6. _Snarks for Virtual Machine are Non-Malleable_. Antonio Faonio. \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2025-03-w7/20250325-zkproof7--Antonio-Faonio--Snarks-for-Virtual-Machine-are-Non-Malleable.pdf)\]
+7. _Benchmarking zkVMs: Efficiency, Bottlenecks, and Best Practices_. Masato Tsutsumi. \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2025-03-w7/20250325-zkproof7--Masato-Tsutsumi--Benchmarking-zkVMs-Efficiency,-Bottlenecks,-and-Best-Practices.pdf)\]
+8. _Using Hax for Correct and Secure Zero-Knowledge Implementations_. Lasse Letager Hansen. \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2025-03-w7/20250325-zkproof7--Lasse-Letager-Hansen--Using-Hax-for-Correct-and-Secure-Zero-Knowledge-Implementations.pdf)\]
+9. _On the Formal Verification of Polynomial Commitment Schemes: the KZG and beyond_. Tobias Rothmann. \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2025-03-w7/20250325-zkproof7--Tobias-Rothmann--On-the-Formal-Verification-of-Polynomial-Commitment-Schemes-the-KZG-and-beyond.pdf)\]
 
 
 ## <a id="ZDC23"></a>ZKProof Policy @ DC (ZDC'23)
