@@ -66,6 +66,8 @@ Quick link: Most videos of talks can also be found via the Youtube index of [ZKP
 19. _On the Fiat–Shamir Security of FIOP-Based Succinct Arguments_. Christian Knabenhans. \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2025-03-w7/20250324-zkproof7--Christian-Knabenhans--On-the-Fiat–Shamir-Security-of-FIOP-Based-Succinct-Arguments.pdf)\] \[[Video](https://www.youtube.com/watch?v=pAm225U1s9c&list=PLOEty2U8Y69V6_OJNHTFiQPKH9zQlsBZa&index=13)\]
 20. _TLSNotarization in Browsers_. Sofia Celi. \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2025-03-w7/20250324-zkproof7--Sofia-Celi--TLSNotarization-in-Browsers.pdf)\] \[[Video](https://www.youtube.com/watch?v=xEcQclZXLMA&list=PLOEty2U8Y69V6_OJNHTFiQPKH9zQlsBZa&index=22)\]
 21. _Is Identity the ZKP Killer App?_. InversedTech, Brave, QEDIT, Rarimo. \[[Video](https://www.youtube.com/watch?v=4pOMHSGJYHU&list=PLOEty2U8Y69V6_OJNHTFiQPKH9zQlsBZa&index=21)\]
+22. _ZK-SecreC: A Domain-specific Language for Zero-Knowledge Proofs_. Raul-Martin Rebane. \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2025-03-w7/20250324-zkproof7--Raul-Martin--ZK-SecreC-A-Domain-specific-Language-for-Zero-Knowledge-Proofs.pdf)\] \[[Video](https://www.youtube.com/watch?v=aAWR1SIacMw&list=PLOEty2U8Y69V6_OJNHTFiQPKH9zQlsBZa&index=3)\]
+
 
 #### 2025-Mar-25
 1. _Formally verifying zk(E)VMs with the Ethereum Foundation_. Alexander Hicks. \[[Slides](https://github.com/zkpstandard/docs/raw/master/pages/presentations/2025-03-w7/20250325-zkproof7--Alexander-Hicks--Formally-verifying-zk(E)VMs-with-the-Ethereum-Foundation.pdf)\] \[[Video](https://www.youtube.com/watch?v=L_uz5rH50Sw&list=PLOEty2U8Y69VryJipVF4CW8wlIDZAbUPj&index=8)\]
