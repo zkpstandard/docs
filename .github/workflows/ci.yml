@@ -17,7 +17,8 @@ jobs:
         --volume="${{ github.workspace }}:/srv/jekyll" \
         jekyll/builder:latest /bin/bash -c "
           gem update --system && \
-          gem install bundler -v '~> 2.1.4' && \
+          gem install bundler -v '2.1.4' && \
+          bundle _2.1.4_ install && \
           chmod 777 /srv/jekyll && \
           jekyll build
         "        
